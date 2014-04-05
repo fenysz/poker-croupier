@@ -1,0 +1,94 @@
+# Logfile created on 2014-04-05 13:43:47 +0200 by logger.rb/44203
+I, [2014-04-05T13:43:47.155800 #17050]  INFO -- : Reseting R3T to origin/master
+I, [2014-04-05T13:43:48.053880 #17050]  INFO -- : Reseting Mr Bazinga to origin/master
+I, [2014-04-05T13:43:49.316157 #17050]  INFO -- : Reseting NoCo to origin/master
+I, [2014-04-05T13:43:51.831866 #17050]  INFO -- : Connected R3T at http://localhost:8080/
+I, [2014-04-05T13:43:51.833621 #17050]  INFO -- : Connected Mr Bazinga at http://localhost:1337/
+I, [2014-04-05T13:43:51.836138 #17050]  INFO -- : Connected NoCo at http://localhost:8000/player_service.php
+E, [2014-04-05T13:43:51.837146 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:51.837296 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:51.837401 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:52.838701 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:52.838865 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:52.838977 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:53.839561 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:53.839853 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:53.840055 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:54.841053 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:54.841214 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:54.841316 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:55.848140 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:55.848315 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:55.848409 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:56.849154 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:56.849316 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:56.849407 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:57.850064 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:57.850214 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:57.850300 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:58.855448 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:58.855640 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:58.855745 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:43:59.856359 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:43:59.856505 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:43:59.856607 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:44:00.857204 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:44:00.857396 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:44:00.857488 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:44:01.860516 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:44:01.860688 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:44:01.860831 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:44:02.861383 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:44:02.861521 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:44:02.861613 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:44:03.862195 #17050] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T13:44:03.862334 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:44:03.862452 #17050]  INFO -- : Waiting for players to start
+E, [2014-04-05T13:44:05.365180 #17050] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T13:44:05.365344 #17050] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T13:44:05.365457 #17050]  INFO -- : Waiting for players to start
+I, [2014-04-05T13:44:06.383697 #17050]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T13:44:06.402038 #17050]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T13:44:06.407674 #17050]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T13:44:06.407834 #17050]  INFO -- : Players are running
+I, [2014-04-05T13:44:06.424574 #17050]  INFO -- : Player R3T responded with v0.2 always in (200)
+I, [2014-04-05T13:44:06.427793 #17050]  INFO -- : Player Mr Bazinga responded with Mr Bazinga PreFlop Version (200)
+I, [2014-04-05T13:44:06.430395 #17050]  INFO -- : Player NoCo responded with NoCo1300 (200)
+I, [2014-04-05T13:44:06.431087 #17050]  INFO -- : Mr Bazinga received hole_card 9 of Spades
+I, [2014-04-05T13:44:06.431588 #17050]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T13:44:06.432188 #17050]  INFO -- : R3T received hole_card 2 of Clubs
+I, [2014-04-05T13:44:06.432758 #17050]  INFO -- : Mr Bazinga received hole_card 9 of Hearts
+I, [2014-04-05T13:44:06.433351 #17050]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T13:44:06.433957 #17050]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T13:44:06.438714 #17050]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T13:44:06.439645 #17050]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T13:44:06.495849 #17050]  INFO -- : Player R3T responded with 20 (200)
+I, [2014-04-05T13:44:06.496231 #17050]  INFO -- : R3T made a bet of 20 (call) and is left with 980 chips. The pot now contains 50 chips.
+I, [2014-04-05T13:44:06.499500 #17050]  INFO -- : Player Mr Bazinga responded with 220 (200)
+I, [2014-04-05T13:44:06.499764 #17050]  INFO -- : Mr Bazinga made a bet of 220 (raise) and is left with 770 chips. The pot now contains 270 chips.
+I, [2014-04-05T13:44:06.501476 #17050]  INFO -- : Player NoCo responded with 290 (200)
+I, [2014-04-05T13:44:06.501684 #17050]  INFO -- : NoCo made a bet of 210 (call) and is left with 770 chips. The pot now contains 480 chips.
+I, [2014-04-05T13:44:06.504992 #17050]  INFO -- : Player R3T responded with 230 (200)
+I, [2014-04-05T13:44:06.505345 #17050]  INFO -- : R3T made a bet of 210 (call) and is left with 770 chips. The pot now contains 690 chips.
+I, [2014-04-05T13:44:06.505662 #17050]  INFO -- : community card Queen of Hearts
+I, [2014-04-05T13:44:06.505868 #17050]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T13:44:06.506068 #17050]  INFO -- : community card Ace of Hearts
+I, [2014-04-05T13:44:06.508271 #17050]  INFO -- : Player Mr Bazinga responded with 220 (200)
+I, [2014-04-05T13:44:06.508536 #17050]  INFO -- : Mr Bazinga made a bet of 220 (raise) and is left with 550 chips. The pot now contains 910 chips.
+I, [2014-04-05T13:44:06.511188 #17050]  INFO -- : Player NoCo responded with 273 (200)
+I, [2014-04-05T13:44:06.511435 #17050]  INFO -- : NoCo made a bet of 220 (call) and is left with 550 chips. The pot now contains 1130 chips.
+I, [2014-04-05T13:44:06.531296 #17050]  INFO -- : Player R3T responded with 450 (200)
+I, [2014-04-05T13:44:06.531713 #17050]  INFO -- : R3T made a bet of 450 (raise) and is left with 320 chips. The pot now contains 1580 chips.
+I, [2014-04-05T13:44:06.534548 #17050]  INFO -- : Player Mr Bazinga responded with 660 (200)
+I, [2014-04-05T13:44:06.534939 #17050]  INFO -- : Mr Bazinga made a bet of 550 (allin) and is left with 0 chips. The pot now contains 2130 chips.
+I, [2014-04-05T13:44:06.537555 #17050]  INFO -- : Player NoCo responded with 564 (200)
+I, [2014-04-05T13:44:06.537971 #17050]  INFO -- : NoCo made a bet of 550 (allin) and is left with 0 chips. The pot now contains 2680 chips.
+I, [2014-04-05T13:44:06.553057 #17050]  INFO -- : Player R3T responded with 1000 (200)
+I, [2014-04-05T13:44:06.553351 #17050]  INFO -- : R3T made a bet of 320 (allin) and is left with 0 chips. The pot now contains 3000 chips.
+I, [2014-04-05T13:44:06.553747 #17050]  INFO -- : community card Ace of Diamonds
+I, [2014-04-05T13:44:06.554107 #17050]  INFO -- : community card 5 of Diamonds
+I, [2014-04-05T13:44:06.555073 #17050]  INFO -- : Mr Bazinga showed 9 of Hearts,9 of Spades,Queen of Hearts,Ace of Diamonds,Ace of Hearts making a two pairs
+I, [2014-04-05T13:44:06.556016 #17050]  INFO -- : Mr Bazinga won 3000
+I, [2014-04-05T13:44:06.561275 #17050]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T13:44:06.567380 #17050]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T13:44:06.570213 #17050]  INFO -- : Player NoCo responded with  (200)

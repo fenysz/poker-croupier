@@ -1,0 +1,996 @@
+# Logfile created on 2014-04-05 11:48:41 +0200 by logger.rb/44203
+I, [2014-04-05T11:48:41.428733 #18795]  INFO -- : Reseting R3T to origin/master
+I, [2014-04-05T11:48:42.249872 #18795]  INFO -- : Reseting Mr Bazinga to origin/master
+I, [2014-04-05T11:48:43.081304 #18795]  INFO -- : Reseting NoCo to origin/master
+I, [2014-04-05T11:48:43.947583 #18795]  INFO -- : Connected R3T at http://localhost:8080/
+I, [2014-04-05T11:48:43.950863 #18795]  INFO -- : Connected Mr Bazinga at http://localhost:1337/
+I, [2014-04-05T11:48:43.954545 #18795]  INFO -- : Connected NoCo at http://localhost:8000/player_service.php
+E, [2014-04-05T11:48:43.956370 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:43.956522 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:43.956626 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:44.957249 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:44.957391 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:44.957490 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:45.958170 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:45.958376 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:45.958496 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:46.959300 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:46.959587 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:46.959783 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:47.976129 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:47.976406 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:47.976576 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:48.977280 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:48.977550 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:48.977723 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:49.979023 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:49.979173 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:49.979251 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:50.988159 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:50.988346 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:50.988462 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:51.989161 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:51.989335 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:51.989450 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:52.990031 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:52.990187 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:52.990245 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:53.990713 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:53.990880 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:53.991008 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:54.991601 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:54.991726 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:54.991998 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:55.992517 #18795] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T11:48:55.992644 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:55.992760 #18795]  INFO -- : Waiting for players to start
+E, [2014-04-05T11:48:57.494777 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:48:57.494914 #18795] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T11:48:57.495013 #18795]  INFO -- : Waiting for players to start
+I, [2014-04-05T11:48:58.500939 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:48:58.519420 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:48:58.521306 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:48:58.521783 #18795]  INFO -- : Players are running
+I, [2014-04-05T11:48:58.537961 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:48:58.541320 #18795]  INFO -- : Player Mr Bazinga responded with Mr Bazinga version 0.1 (200)
+I, [2014-04-05T11:48:58.543794 #18795]  INFO -- : Player NoCo responded with NoCo1145 (200)
+I, [2014-04-05T11:48:58.544120 #18795]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T11:48:58.544334 #18795]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T11:48:58.544503 #18795]  INFO -- : R3T received hole_card 7 of Spades
+I, [2014-04-05T11:48:58.544701 #18795]  INFO -- : Mr Bazinga received hole_card 7 of Clubs
+I, [2014-04-05T11:48:58.544899 #18795]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T11:48:58.545095 #18795]  INFO -- : R3T received hole_card 3 of Clubs
+I, [2014-04-05T11:48:58.546522 #18795]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:48:58.546816 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:48:58.607959 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:48:58.608735 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:48:58.617886 #18795]  INFO -- : Player Mr Bazinga responded with 500 (200)
+I, [2014-04-05T11:48:58.618753 #18795]  INFO -- : Mr Bazinga made a bet of 500 (raise) and is left with 490 chips. The pot now contains 530 chips.
+I, [2014-04-05T11:48:58.621850 #18795]  INFO -- : Player NoCo responded with 980 (200)
+I, [2014-04-05T11:48:58.622511 #18795]  INFO -- : NoCo made a bet of 980 (allin) and is left with 0 chips. The pot now contains 1510 chips.
+I, [2014-04-05T11:48:58.628771 #18795]  INFO -- : Player Mr Bazinga responded with 500 (200)
+I, [2014-04-05T11:48:58.629490 #18795]  INFO -- : Mr Bazinga made a bet of 490 (allin) and is left with 0 chips. The pot now contains 2000 chips.
+I, [2014-04-05T11:48:58.630256 #18795]  INFO -- : community card 5 of Hearts
+I, [2014-04-05T11:48:58.630982 #18795]  INFO -- : community card 4 of Clubs
+I, [2014-04-05T11:48:58.631295 #18795]  INFO -- : community card Jack of Hearts
+I, [2014-04-05T11:48:58.631648 #18795]  INFO -- : community card 8 of Clubs
+I, [2014-04-05T11:48:58.631900 #18795]  INFO -- : community card 9 of Spades
+I, [2014-04-05T11:48:58.632672 #18795]  INFO -- : NoCo showed 8 of Clubs,9 of Spades,10 of Clubs,10 of Spades,Jack of Hearts making a pair
+I, [2014-04-05T11:48:58.633181 #18795]  INFO -- : NoCo won 2000
+I, [2014-04-05T11:48:58.636758 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:48:58.639837 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:48:58.642575 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:48:58.643545 #18795]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T11:48:58.644281 #18795]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T11:48:58.644971 #18795]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T11:48:58.645532 #18795]  INFO -- : NoCo received hole_card 2 of Spades
+I, [2014-04-05T11:48:58.646535 #18795]  INFO -- : R3T made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:48:58.647402 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1980 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:48:58.658389 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:48:58.658833 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:48:58.659738 #18795]  INFO -- : NoCo won 30
+I, [2014-04-05T11:48:58.666907 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:48:58.672821 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:48:58.675566 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:48:58.676641 #18795]  INFO -- : NoCo received hole_card 8 of Diamonds
+I, [2014-04-05T11:48:58.677221 #18795]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T11:48:58.677852 #18795]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T11:48:58.678568 #18795]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T11:48:58.679526 #18795]  INFO -- : NoCo made a bet of 10 (raise) and is left with 2000 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:48:58.680322 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:48:58.683124 #18795]  INFO -- : Player NoCo responded with 10 (200)
+I, [2014-04-05T11:48:58.683920 #18795]  INFO -- : NoCo made a bet of 10 (call) and is left with 1990 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:58.697857 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:48:58.698368 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 970 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:58.698823 #18795]  INFO -- : community card 7 of Clubs
+I, [2014-04-05T11:48:58.699146 #18795]  INFO -- : community card 4 of Spades
+I, [2014-04-05T11:48:58.699353 #18795]  INFO -- : community card 3 of Diamonds
+E, [2014-04-05T11:48:59.202887 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:48:59.203412 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:48:59.204303 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1990 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:59.220878 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:48:59.222562 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 970 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:59.222897 #18795]  INFO -- : community card Ace of Spades
+E, [2014-04-05T11:48:59.726081 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:48:59.726400 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:48:59.726965 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1990 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:59.738736 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:48:59.739503 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 970 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:48:59.740832 #18795]  INFO -- : community card 5 of Clubs
+E, [2014-04-05T11:49:00.244208 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:00.244600 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:00.245566 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1990 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:00.257596 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:00.258720 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 970 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:00.259647 #18795]  INFO -- : NoCo showed 5 of Clubs,7 of Clubs,8 of Diamonds,Ace of Clubs,Ace of Spades making a pair
+I, [2014-04-05T11:49:00.260389 #18795]  INFO -- : R3T showed 4 of Spades,4 of Diamonds,5 of Clubs,5 of Diamonds,Ace of Spades making a two pairs
+I, [2014-04-05T11:49:00.262036 #18795]  INFO -- : R3T won 40
+I, [2014-04-05T11:49:00.265246 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:00.267029 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:00.768836 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:00.769158 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:00.770026 #18795]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T11:49:00.770600 #18795]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T11:49:00.771140 #18795]  INFO -- : R3T received hole_card Queen of Clubs
+I, [2014-04-05T11:49:00.771619 #18795]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T11:49:00.772647 #18795]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:00.773523 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1970 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:00.783011 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:00.783476 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:00.784880 #18795]  INFO -- : NoCo won 30
+I, [2014-04-05T11:49:00.789527 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:00.798927 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:01.301024 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:01.301346 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:01.302758 #18795]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T11:49:01.303582 #18795]  INFO -- : R3T received hole_card 4 of Clubs
+I, [2014-04-05T11:49:01.304213 #18795]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T11:49:01.304738 #18795]  INFO -- : R3T received hole_card Ace of Diamonds
+I, [2014-04-05T11:49:01.305605 #18795]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1990 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:01.306415 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+E, [2014-04-05T11:49:01.810592 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:01.810939 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:01.811398 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1990 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:01.823390 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:01.823717 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:01.824316 #18795]  INFO -- : R3T won 30
+I, [2014-04-05T11:49:01.828812 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:01.830921 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:02.332841 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:02.333289 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:02.334201 #18795]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T11:49:02.334879 #18795]  INFO -- : NoCo received hole_card 9 of Diamonds
+I, [2014-04-05T11:49:02.335558 #18795]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T11:49:02.336285 #18795]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T11:49:02.337320 #18795]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:02.338203 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1970 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:02.351416 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:02.352262 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:02.353527 #18795]  INFO -- : NoCo won 30
+I, [2014-04-05T11:49:02.360729 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:02.364746 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:02.800269 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:02.801186 #18795]  INFO -- : NoCo received hole_card 10 of Diamonds
+I, [2014-04-05T11:49:02.801681 #18795]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T11:49:02.802279 #18795]  INFO -- : NoCo received hole_card Jack of Spades
+I, [2014-04-05T11:49:02.802849 #18795]  INFO -- : R3T received hole_card 4 of Hearts
+I, [2014-04-05T11:49:02.803690 #18795]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1990 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:02.804583 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:02.809773 #18795]  INFO -- : Player NoCo responded with 10 (200)
+I, [2014-04-05T11:49:02.810528 #18795]  INFO -- : NoCo made a bet of 10 (call) and is left with 1980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:02.822991 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:02.823498 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:02.823815 #18795]  INFO -- : community card 10 of Clubs
+I, [2014-04-05T11:49:02.824089 #18795]  INFO -- : community card King of Clubs
+I, [2014-04-05T11:49:02.824296 #18795]  INFO -- : community card 8 of Hearts
+E, [2014-04-05T11:49:03.328139 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:03.328497 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:03.329106 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:03.344080 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:03.345091 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:03.346148 #18795]  INFO -- : community card Queen of Diamonds
+E, [2014-04-05T11:49:03.850829 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:03.851200 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:03.851954 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:03.865195 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:03.865720 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:03.866508 #18795]  INFO -- : community card 2 of Spades
+E, [2014-04-05T11:49:04.370332 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:04.370700 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:04.371231 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:04.381471 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:04.381982 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:04.383542 #18795]  INFO -- : NoCo showed 10 of Diamonds,10 of Clubs,Jack of Spades,Queen of Diamonds,King of Clubs making a pair
+I, [2014-04-05T11:49:04.384852 #18795]  INFO -- : NoCo won 40
+I, [2014-04-05T11:49:04.390296 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:04.393759 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:04.895958 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:04.896329 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:04.897168 #18795]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T11:49:04.897677 #18795]  INFO -- : NoCo received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:04.898198 #18795]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T11:49:04.898747 #18795]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T11:49:04.899600 #18795]  INFO -- : R3T made a bet of 10 (raise) and is left with 970 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:04.900385 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 2000 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:04.916512 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:04.917680 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:04.919086 #18795]  INFO -- : NoCo won 30
+I, [2014-04-05T11:49:04.922513 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:04.924551 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:05.426419 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:05.426774 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:05.427573 #18795]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T11:49:05.428151 #18795]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T11:49:05.428718 #18795]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T11:49:05.429254 #18795]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T11:49:05.430138 #18795]  INFO -- : NoCo made a bet of 10 (raise) and is left with 2020 chips. The pot now contains 10 chips.
+I, [2014-04-05T11:49:05.431109 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 950 chips. The pot now contains 30 chips.
+E, [2014-04-05T11:49:05.934755 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:05.935118 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:05.935679 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2020 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:05.947309 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:05.947966 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 950 chips. The pot now contains 30 chips.
+I, [2014-04-05T11:49:05.949127 #18795]  INFO -- : R3T won 30
+I, [2014-04-05T11:49:05.955990 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:05.960554 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:06.464511 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:06.464874 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:06.465783 #18795]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T11:49:06.466320 #18795]  INFO -- : NoCo received hole_card 5 of Diamonds
+I, [2014-04-05T11:49:06.466924 #18795]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T11:49:06.467410 #18795]  INFO -- : NoCo received hole_card 9 of Diamonds
+I, [2014-04-05T11:49:06.468524 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 960 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:06.469288 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1980 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:06.481487 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:06.482036 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:06.483074 #18795]  INFO -- : NoCo won 60
+I, [2014-04-05T11:49:06.489128 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:06.493678 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:06.983045 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:06.983994 #18795]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T11:49:06.984671 #18795]  INFO -- : R3T received hole_card 2 of Clubs
+I, [2014-04-05T11:49:06.985225 #18795]  INFO -- : NoCo received hole_card Ace of Diamonds
+I, [2014-04-05T11:49:06.985833 #18795]  INFO -- : R3T received hole_card Queen of Clubs
+I, [2014-04-05T11:49:06.986748 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 2020 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:06.987595 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 920 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:06.992608 #18795]  INFO -- : Player NoCo responded with 20 (200)
+I, [2014-04-05T11:49:06.993276 #18795]  INFO -- : NoCo made a bet of 20 (call) and is left with 2000 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:07.007439 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:07.007933 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:07.008402 #18795]  INFO -- : community card 5 of Hearts
+I, [2014-04-05T11:49:07.008763 #18795]  INFO -- : community card 9 of Hearts
+I, [2014-04-05T11:49:07.009088 #18795]  INFO -- : community card Queen of Diamonds
+E, [2014-04-05T11:49:07.512812 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:07.513203 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:07.513670 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2000 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:07.524790 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:07.525204 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:07.525439 #18795]  INFO -- : community card 2 of Hearts
+E, [2014-04-05T11:49:08.028796 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:08.029116 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:08.029647 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2000 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:08.042923 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:08.043725 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:08.044563 #18795]  INFO -- : community card 9 of Spades
+E, [2014-04-05T11:49:08.548285 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:08.548404 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:08.548582 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2000 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:08.559372 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:08.559879 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:08.561025 #18795]  INFO -- : NoCo showed 6 of Clubs,9 of Hearts,9 of Spades,Queen of Diamonds,Ace of Diamonds making a pair
+I, [2014-04-05T11:49:08.562007 #18795]  INFO -- : R3T showed 5 of Hearts,9 of Hearts,9 of Spades,Queen of Clubs,Queen of Diamonds making a two pairs
+I, [2014-04-05T11:49:08.562535 #18795]  INFO -- : R3T won 80
+I, [2014-04-05T11:49:08.568357 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:08.571006 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:09.072851 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:09.073074 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:09.073679 #18795]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T11:49:09.074084 #18795]  INFO -- : NoCo received hole_card 6 of Diamonds
+I, [2014-04-05T11:49:09.074414 #18795]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T11:49:09.074777 #18795]  INFO -- : NoCo received hole_card 8 of Clubs
+I, [2014-04-05T11:49:09.075358 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:09.075871 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1960 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:09.085266 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:09.085987 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:09.087197 #18795]  INFO -- : NoCo won 60
+I, [2014-04-05T11:49:09.091995 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:09.095824 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:09.598660 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:09.598985 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:09.599802 #18795]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T11:49:09.600328 #18795]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T11:49:09.601169 #18795]  INFO -- : NoCo received hole_card 9 of Clubs
+I, [2014-04-05T11:49:09.601841 #18795]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T11:49:09.602981 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 2000 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:09.603888 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 940 chips. The pot now contains 60 chips.
+E, [2014-04-05T11:49:10.107324 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:10.107697 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:10.108247 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2000 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:10.119495 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:10.120209 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:10.121493 #18795]  INFO -- : R3T won 60
+I, [2014-04-05T11:49:10.128481 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:10.132899 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:10.160789 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:10.161762 #18795]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T11:49:10.162339 #18795]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T11:49:10.162900 #18795]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T11:49:10.163479 #18795]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T11:49:10.164485 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:10.165272 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1960 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:10.173657 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:10.173995 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:10.175093 #18795]  INFO -- : NoCo won 60
+I, [2014-04-05T11:49:10.179516 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:10.181639 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:10.183104 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:10.183419 #18795]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T11:49:10.183626 #18795]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T11:49:10.183833 #18795]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T11:49:10.184014 #18795]  INFO -- : R3T received hole_card 3 of Hearts
+I, [2014-04-05T11:49:10.184370 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 2000 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:10.184672 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:10.186402 #18795]  INFO -- : Player NoCo responded with 20 (200)
+I, [2014-04-05T11:49:10.186635 #18795]  INFO -- : NoCo made a bet of 20 (call) and is left with 1980 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:10.190073 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:10.190348 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 940 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:10.190628 #18795]  INFO -- : community card 10 of Clubs
+I, [2014-04-05T11:49:10.190841 #18795]  INFO -- : community card 7 of Diamonds
+I, [2014-04-05T11:49:10.191056 #18795]  INFO -- : community card 6 of Spades
+E, [2014-04-05T11:49:10.693903 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:10.694228 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:10.694775 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:10.707725 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:10.708474 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 940 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:10.709455 #18795]  INFO -- : community card 2 of Diamonds
+E, [2014-04-05T11:49:11.213898 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:11.214210 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:11.214778 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:11.227695 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:11.228337 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 940 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:11.229111 #18795]  INFO -- : community card King of Clubs
+E, [2014-04-05T11:49:11.732942 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:11.733391 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:11.734299 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1980 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:11.747293 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:11.748216 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 940 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:11.749967 #18795]  INFO -- : NoCo showed 6 of Spades,7 of Diamonds,10 of Clubs,Queen of Diamonds,King of Clubs making a high card
+I, [2014-04-05T11:49:11.750837 #18795]  INFO -- : R3T showed 6 of Spades,7 of Diamonds,10 of Clubs,Queen of Spades,King of Clubs making a high card
+I, [2014-04-05T11:49:11.751644 #18795]  INFO -- : NoCo won 40
+I, [2014-04-05T11:49:11.751849 #18795]  INFO -- : R3T won 40
+I, [2014-04-05T11:49:11.757503 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:11.761026 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:12.263491 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:12.263858 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:12.264837 #18795]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T11:49:12.265417 #18795]  INFO -- : NoCo received hole_card Jack of Clubs
+I, [2014-04-05T11:49:12.265991 #18795]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T11:49:12.266578 #18795]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T11:49:12.267475 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 960 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:12.269313 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1980 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:12.279294 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:12.279544 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:12.279977 #18795]  INFO -- : NoCo won 60
+I, [2014-04-05T11:49:12.282328 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:12.283800 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:12.785345 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:12.785725 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:12.786654 #18795]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T11:49:12.787194 #18795]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T11:49:12.787804 #18795]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T11:49:12.788422 #18795]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T11:49:12.789379 #18795]  INFO -- : NoCo made a bet of 20 (raise) and is left with 2020 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:12.790176 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 920 chips. The pot now contains 60 chips.
+E, [2014-04-05T11:49:13.293998 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:13.294313 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:13.294772 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2020 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:13.305887 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:13.306754 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:13.308511 #18795]  INFO -- : R3T won 60
+I, [2014-04-05T11:49:13.315758 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:13.320613 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:13.824997 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:13.825299 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:13.826050 #18795]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T11:49:13.826598 #18795]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T11:49:13.827127 #18795]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T11:49:13.827688 #18795]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T11:49:13.828875 #18795]  INFO -- : R3T made a bet of 20 (raise) and is left with 960 chips. The pot now contains 20 chips.
+I, [2014-04-05T11:49:13.829677 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1980 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:13.841860 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:13.842823 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T11:49:13.844881 #18795]  INFO -- : NoCo won 60
+I, [2014-04-05T11:49:13.850179 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:13.852574 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:14.258958 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:14.259484 #18795]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T11:49:14.259775 #18795]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T11:49:14.260416 #18795]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T11:49:14.261011 #18795]  INFO -- : R3T received hole_card 6 of Diamonds
+I, [2014-04-05T11:49:14.261483 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 2000 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:14.261956 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:14.263771 #18795]  INFO -- : Player NoCo responded with 40 (200)
+I, [2014-04-05T11:49:14.263958 #18795]  INFO -- : NoCo made a bet of 40 (call) and is left with 1960 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:14.271598 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:14.271853 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 880 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:14.272069 #18795]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T11:49:14.272253 #18795]  INFO -- : community card 9 of Hearts
+I, [2014-04-05T11:49:14.272405 #18795]  INFO -- : community card 9 of Clubs
+E, [2014-04-05T11:49:14.774251 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:14.774562 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:14.775073 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1960 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:14.784587 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:14.785224 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 880 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:14.785666 #18795]  INFO -- : community card 7 of Clubs
+E, [2014-04-05T11:49:15.288547 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:15.288865 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:15.289451 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1960 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:15.300681 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:15.301040 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 880 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:15.301397 #18795]  INFO -- : community card 8 of Spades
+E, [2014-04-05T11:49:15.803822 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:15.803986 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:15.804291 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1960 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:15.815877 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:15.816904 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 880 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:15.818737 #18795]  INFO -- : NoCo showed 8 of Spades,8 of Hearts,9 of Clubs,9 of Hearts,King of Spades making a two pairs
+I, [2014-04-05T11:49:15.820424 #18795]  INFO -- : NoCo won 160
+I, [2014-04-05T11:49:15.826459 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:15.830351 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:16.333109 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:16.333481 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:16.334323 #18795]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T11:49:16.334901 #18795]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T11:49:16.335513 #18795]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T11:49:16.336131 #18795]  INFO -- : NoCo received hole_card 2 of Clubs
+I, [2014-04-05T11:49:16.337029 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 840 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:16.337885 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 2040 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:16.348860 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:16.349765 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 840 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:16.351490 #18795]  INFO -- : NoCo won 120
+I, [2014-04-05T11:49:16.358754 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:16.365652 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:16.868990 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:16.869334 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:16.870257 #18795]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T11:49:16.870783 #18795]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T11:49:16.871277 #18795]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T11:49:16.871807 #18795]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T11:49:16.872717 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 2120 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:16.873473 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 760 chips. The pot now contains 120 chips.
+E, [2014-04-05T11:49:17.376872 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:17.377223 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:17.377759 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2120 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:17.389455 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:17.390134 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 760 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:17.391408 #18795]  INFO -- : R3T won 120
+I, [2014-04-05T11:49:17.397202 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:17.400953 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:17.904793 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:17.905168 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:17.906264 #18795]  INFO -- : R3T received hole_card 4 of Clubs
+I, [2014-04-05T11:49:17.907210 #18795]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T11:49:17.908431 #18795]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T11:49:17.909472 #18795]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T11:49:17.911192 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 840 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:17.912817 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 2040 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:17.919079 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:17.919284 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 840 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:17.919652 #18795]  INFO -- : NoCo won 120
+I, [2014-04-05T11:49:17.922578 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:17.926676 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:18.326774 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:18.327729 #18795]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T11:49:18.328539 #18795]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T11:49:18.329195 #18795]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T11:49:18.329741 #18795]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T11:49:18.330152 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 2120 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:18.330486 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 760 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:18.333785 #18795]  INFO -- : Player NoCo responded with 40 (200)
+I, [2014-04-05T11:49:18.334639 #18795]  INFO -- : NoCo made a bet of 40 (call) and is left with 2080 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:18.346464 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:18.347088 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 760 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:18.347813 #18795]  INFO -- : community card Queen of Diamonds
+I, [2014-04-05T11:49:18.348512 #18795]  INFO -- : community card Jack of Spades
+I, [2014-04-05T11:49:18.349182 #18795]  INFO -- : community card Jack of Clubs
+E, [2014-04-05T11:49:18.853156 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:18.853515 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:18.854083 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2080 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:18.864822 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:18.865291 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 760 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:18.866087 #18795]  INFO -- : community card 5 of Spades
+E, [2014-04-05T11:49:19.368682 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:19.369117 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:19.370075 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2080 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:19.383289 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:19.384136 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 760 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:19.385178 #18795]  INFO -- : community card 7 of Hearts
+E, [2014-04-05T11:49:19.889307 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:19.889805 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:19.890385 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2080 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:19.898849 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:19.899723 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 760 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:19.901448 #18795]  INFO -- : NoCo showed 6 of Clubs,7 of Hearts,Jack of Clubs,Jack of Spades,Queen of Diamonds making a pair
+I, [2014-04-05T11:49:19.903043 #18795]  INFO -- : R3T showed 7 of Hearts,Jack of Clubs,Jack of Spades,Queen of Diamonds,King of Clubs making a pair
+I, [2014-04-05T11:49:19.904214 #18795]  INFO -- : R3T won 160
+I, [2014-04-05T11:49:19.909118 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:19.912100 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:20.415095 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:20.415470 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:20.416429 #18795]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T11:49:20.417070 #18795]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T11:49:20.417928 #18795]  INFO -- : R3T received hole_card 5 of Spades
+I, [2014-04-05T11:49:20.418480 #18795]  INFO -- : NoCo received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:20.419483 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 880 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:20.420456 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 2000 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:20.428633 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:20.429603 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:20.431601 #18795]  INFO -- : NoCo won 120
+I, [2014-04-05T11:49:20.437371 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:20.439131 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:20.941239 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:20.941581 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:20.943214 #18795]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T11:49:20.943777 #18795]  INFO -- : R3T received hole_card 6 of Diamonds
+I, [2014-04-05T11:49:20.944424 #18795]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T11:49:20.944924 #18795]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T11:49:20.945870 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 2080 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:20.946738 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 800 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:21.435176 #18795]  INFO -- : Player NoCo responded with 40 (200)
+I, [2014-04-05T11:49:21.435830 #18795]  INFO -- : NoCo made a bet of 40 (call) and is left with 2040 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:21.447190 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:21.447978 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 800 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:21.448801 #18795]  INFO -- : community card Jack of Diamonds
+I, [2014-04-05T11:49:21.449448 #18795]  INFO -- : community card 3 of Hearts
+I, [2014-04-05T11:49:21.450129 #18795]  INFO -- : community card 3 of Spades
+E, [2014-04-05T11:49:21.953942 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:21.954267 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:21.954809 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2040 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:21.966432 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:21.967494 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 800 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:21.968641 #18795]  INFO -- : community card 5 of Spades
+E, [2014-04-05T11:49:22.472676 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:22.473042 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:22.473726 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2040 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:22.485954 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:22.486839 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 800 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:22.488143 #18795]  INFO -- : community card King of Diamonds
+E, [2014-04-05T11:49:22.993000 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:22.993326 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:22.993860 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2040 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:23.005063 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:23.005800 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 800 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:23.007464 #18795]  INFO -- : NoCo showed 3 of Hearts,3 of Spades,3 of Clubs,Jack of Diamonds,King of Diamonds making a three of a kind
+I, [2014-04-05T11:49:23.008771 #18795]  INFO -- : NoCo won 160
+I, [2014-04-05T11:49:23.015867 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:23.019978 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:23.522832 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:23.523177 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:23.524025 #18795]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T11:49:23.524625 #18795]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T11:49:23.525198 #18795]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T11:49:23.525753 #18795]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T11:49:23.526635 #18795]  INFO -- : R3T made a bet of 40 (raise) and is left with 760 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:23.527417 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 2120 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:23.535552 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:23.536568 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 760 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:23.538055 #18795]  INFO -- : NoCo won 120
+I, [2014-04-05T11:49:23.544791 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:23.549038 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:24.052126 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:24.052432 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:24.053313 #18795]  INFO -- : NoCo received hole_card 8 of Diamonds
+I, [2014-04-05T11:49:24.053797 #18795]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:24.054336 #18795]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T11:49:24.054919 #18795]  INFO -- : R3T received hole_card 3 of Clubs
+I, [2014-04-05T11:49:24.055812 #18795]  INFO -- : NoCo made a bet of 40 (raise) and is left with 2200 chips. The pot now contains 40 chips.
+I, [2014-04-05T11:49:24.056567 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 680 chips. The pot now contains 120 chips.
+E, [2014-04-05T11:49:24.560625 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:24.560972 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:24.561519 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2200 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:24.573288 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:24.574284 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 680 chips. The pot now contains 120 chips.
+I, [2014-04-05T11:49:24.576299 #18795]  INFO -- : R3T won 120
+I, [2014-04-05T11:49:24.586325 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:24.589828 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:24.605705 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:24.606613 #18795]  INFO -- : R3T received hole_card Jack of Spades
+I, [2014-04-05T11:49:24.607192 #18795]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T11:49:24.607834 #18795]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T11:49:24.608456 #18795]  INFO -- : NoCo received hole_card 7 of Diamonds
+I, [2014-04-05T11:49:24.609500 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 720 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:24.610335 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2040 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:24.619785 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:24.621062 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 720 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:24.622907 #18795]  INFO -- : NoCo won 240
+I, [2014-04-05T11:49:24.628543 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:24.632528 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:24.635682 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:24.636296 #18795]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T11:49:24.636486 #18795]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T11:49:24.636643 #18795]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T11:49:24.637206 #18795]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T11:49:24.637540 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 2200 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:24.637758 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 560 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:24.639161 #18795]  INFO -- : Player NoCo responded with 80 (200)
+I, [2014-04-05T11:49:24.639330 #18795]  INFO -- : NoCo made a bet of 80 (call) and is left with 2120 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:24.642386 #18795]  INFO -- : Player R3T responded with 200 (200)
+I, [2014-04-05T11:49:24.642835 #18795]  INFO -- : R3T made a bet of 200 (raise) and is left with 360 chips. The pot now contains 520 chips.
+I, [2014-04-05T11:49:24.646006 #18795]  INFO -- : Player NoCo responded with 200 (200)
+I, [2014-04-05T11:49:24.646531 #18795]  INFO -- : NoCo made a bet of 200 (call) and is left with 1920 chips. The pot now contains 720 chips.
+I, [2014-04-05T11:49:24.647048 #18795]  INFO -- : community card 6 of Hearts
+I, [2014-04-05T11:49:24.647554 #18795]  INFO -- : community card 5 of Clubs
+I, [2014-04-05T11:49:24.647941 #18795]  INFO -- : community card 4 of Spades
+E, [2014-04-05T11:49:25.151018 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:25.151364 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:25.151816 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1920 chips. The pot now contains 720 chips.
+I, [2014-04-05T11:49:25.159860 #18795]  INFO -- : Player R3T responded with 400 (200)
+I, [2014-04-05T11:49:25.160637 #18795]  INFO -- : R3T made a bet of 360 (allin) and is left with 0 chips. The pot now contains 1080 chips.
+E, [2014-04-05T11:49:25.664382 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:25.664698 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:25.665189 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1920 chips. The pot now contains 1080 chips.
+I, [2014-04-05T11:49:25.666389 #18795]  INFO -- : R3T won 1080
+I, [2014-04-05T11:49:25.672568 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:25.676992 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:26.178884 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:26.179212 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:26.180002 #18795]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T11:49:26.180565 #18795]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T11:49:26.181122 #18795]  INFO -- : R3T received hole_card King of Hearts
+I, [2014-04-05T11:49:26.181605 #18795]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T11:49:26.182548 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:26.183409 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1760 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:26.194091 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:26.196299 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:26.197591 #18795]  INFO -- : NoCo won 240
+I, [2014-04-05T11:49:26.204099 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:26.208926 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:26.712680 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:26.713029 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:26.713845 #18795]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T11:49:26.714331 #18795]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T11:49:26.715030 #18795]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T11:49:26.715590 #18795]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T11:49:26.716570 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1920 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:26.717436 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:26.748178 #18795]  INFO -- : Player NoCo responded with 80 (200)
+I, [2014-04-05T11:49:26.748689 #18795]  INFO -- : NoCo made a bet of 80 (call) and is left with 1840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:26.754148 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:26.754366 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:26.754604 #18795]  INFO -- : community card 2 of Diamonds
+I, [2014-04-05T11:49:26.754770 #18795]  INFO -- : community card 4 of Spades
+I, [2014-04-05T11:49:26.754951 #18795]  INFO -- : community card 6 of Hearts
+E, [2014-04-05T11:49:27.257847 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:27.258170 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:27.258713 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:27.270442 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:27.271095 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:27.271923 #18795]  INFO -- : community card 3 of Diamonds
+E, [2014-04-05T11:49:27.775949 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:27.776359 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:27.776884 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:27.790904 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:27.792121 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:27.792566 #18795]  INFO -- : community card 5 of Hearts
+E, [2014-04-05T11:49:28.295470 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:28.295789 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:28.296333 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:28.307908 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:28.308713 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:28.310325 #18795]  INFO -- : NoCo showed 2 of Diamonds,3 of Diamonds,4 of Spades,5 of Hearts,6 of Hearts making a straight
+I, [2014-04-05T11:49:28.312390 #18795]  INFO -- : R3T showed 3 of Diamonds,4 of Spades,5 of Hearts,6 of Hearts,7 of Clubs making a straight
+I, [2014-04-05T11:49:28.313643 #18795]  INFO -- : R3T won 320
+I, [2014-04-05T11:49:28.320898 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:28.327701 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:28.830649 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:28.831249 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:28.832125 #18795]  INFO -- : R3T received hole_card 3 of Clubs
+I, [2014-04-05T11:49:28.832931 #18795]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T11:49:28.833566 #18795]  INFO -- : R3T received hole_card 4 of Spades
+I, [2014-04-05T11:49:28.834153 #18795]  INFO -- : NoCo received hole_card 5 of Clubs
+I, [2014-04-05T11:49:28.835092 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 1080 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:28.835965 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1680 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:28.845482 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:28.845774 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1080 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:28.846245 #18795]  INFO -- : NoCo won 240
+I, [2014-04-05T11:49:28.849912 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:28.851737 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:29.353320 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:29.353694 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:29.354577 #18795]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T11:49:29.355112 #18795]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T11:49:29.355740 #18795]  INFO -- : NoCo received hole_card Ace of Diamonds
+I, [2014-04-05T11:49:29.356336 #18795]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T11:49:29.357309 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1840 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:29.358150 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 920 chips. The pot now contains 240 chips.
+E, [2014-04-05T11:49:29.861915 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:29.862241 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:29.862762 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1840 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:29.871724 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:29.872519 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:29.873183 #18795]  INFO -- : R3T won 240
+I, [2014-04-05T11:49:29.877769 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:29.881421 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:30.384924 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:30.385255 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:30.386168 #18795]  INFO -- : R3T received hole_card Queen of Clubs
+I, [2014-04-05T11:49:30.387197 #18795]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T11:49:30.388122 #18795]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T11:49:30.388721 #18795]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T11:49:30.389825 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 1080 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:30.390818 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1680 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:30.401039 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:30.401447 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 1080 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:30.402418 #18795]  INFO -- : NoCo won 240
+I, [2014-04-05T11:49:30.406237 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:30.409112 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:30.910804 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:30.911124 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:30.911956 #18795]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T11:49:30.912474 #18795]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T11:49:30.913043 #18795]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T11:49:30.913556 #18795]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T11:49:30.914483 #18795]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1840 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:30.915229 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:30.960981 #18795]  INFO -- : Player NoCo responded with 80 (200)
+I, [2014-04-05T11:49:30.961709 #18795]  INFO -- : NoCo made a bet of 80 (call) and is left with 1760 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:30.971067 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:30.971813 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:30.972720 #18795]  INFO -- : community card 3 of Hearts
+I, [2014-04-05T11:49:30.973539 #18795]  INFO -- : community card 2 of Hearts
+I, [2014-04-05T11:49:30.974241 #18795]  INFO -- : community card 3 of Diamonds
+E, [2014-04-05T11:49:31.478906 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:31.479338 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:31.479826 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1760 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:31.489186 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:31.489932 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:31.491216 #18795]  INFO -- : community card Queen of Clubs
+E, [2014-04-05T11:49:31.994502 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:31.994817 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:31.995484 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1760 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:32.005401 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:32.005987 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:32.006723 #18795]  INFO -- : community card 4 of Diamonds
+E, [2014-04-05T11:49:32.510762 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:32.511089 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:32.511628 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1760 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:32.523023 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:32.523728 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:32.525619 #18795]  INFO -- : NoCo showed 3 of Hearts,3 of Diamonds,8 of Hearts,Queen of Clubs,Queen of Spades making a two pairs
+I, [2014-04-05T11:49:32.526840 #18795]  INFO -- : NoCo won 320
+I, [2014-04-05T11:49:32.534496 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:32.539499 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:33.042588 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:33.042807 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:33.043354 #18795]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T11:49:33.043747 #18795]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T11:49:33.044467 #18795]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T11:49:33.045062 #18795]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T11:49:33.045802 #18795]  INFO -- : R3T made a bet of 80 (raise) and is left with 840 chips. The pot now contains 80 chips.
+I, [2014-04-05T11:49:33.046557 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1920 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:33.051919 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:33.052446 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T11:49:33.053469 #18795]  INFO -- : NoCo won 240
+I, [2014-04-05T11:49:33.056741 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:33.059178 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:33.561426 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:33.561898 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:33.562713 #18795]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T11:49:33.563301 #18795]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T11:49:33.563879 #18795]  INFO -- : NoCo received hole_card Ace of Spades
+I, [2014-04-05T11:49:33.564515 #18795]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T11:49:33.565447 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2000 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:33.566298 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 520 chips. The pot now contains 480 chips.
+E, [2014-04-05T11:49:34.069879 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:34.070345 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:34.070866 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2000 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:34.081022 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:34.081542 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:34.082706 #18795]  INFO -- : R3T won 480
+I, [2014-04-05T11:49:34.088490 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:34.092268 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:34.094879 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:34.095803 #18795]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T11:49:34.096559 #18795]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T11:49:34.097110 #18795]  INFO -- : R3T received hole_card 4 of Hearts
+I, [2014-04-05T11:49:34.097720 #18795]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T11:49:34.098655 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 840 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:34.099146 #18795]  INFO -- : NoCo made a bet of 320 (raise) and is left with 1680 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:34.104268 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:34.105222 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:34.106302 #18795]  INFO -- : NoCo won 480
+I, [2014-04-05T11:49:34.110499 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:34.115420 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:34.119712 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:34.120619 #18795]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T11:49:34.121228 #18795]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T11:49:34.121945 #18795]  INFO -- : NoCo received hole_card 6 of Hearts
+I, [2014-04-05T11:49:34.122606 #18795]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T11:49:34.123499 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2000 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:34.124379 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:34.129097 #18795]  INFO -- : Player NoCo responded with 160 (200)
+I, [2014-04-05T11:49:34.129735 #18795]  INFO -- : NoCo made a bet of 160 (call) and is left with 1840 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:34.136518 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:34.137536 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 520 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:34.138426 #18795]  INFO -- : community card 9 of Spades
+I, [2014-04-05T11:49:34.138893 #18795]  INFO -- : community card 4 of Hearts
+I, [2014-04-05T11:49:34.139336 #18795]  INFO -- : community card 10 of Clubs
+E, [2014-04-05T11:49:34.642978 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:34.643340 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:34.643783 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:34.654680 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:34.655330 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 520 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:34.656248 #18795]  INFO -- : community card Ace of Diamonds
+E, [2014-04-05T11:49:35.160216 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:35.160377 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:35.160579 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:35.164645 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:35.164941 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 520 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:35.165196 #18795]  INFO -- : community card King of Diamonds
+E, [2014-04-05T11:49:35.667203 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:35.667559 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:35.668321 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 1840 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:35.680694 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:35.681876 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 520 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:35.685775 #18795]  INFO -- : NoCo showed 9 of Spades,10 of Hearts,10 of Clubs,King of Diamonds,Ace of Diamonds making a pair
+I, [2014-04-05T11:49:35.688287 #18795]  INFO -- : NoCo won 640
+I, [2014-04-05T11:49:35.691135 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:35.693090 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:36.194624 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:36.195116 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:36.195938 #18795]  INFO -- : R3T received hole_card Jack of Spades
+I, [2014-04-05T11:49:36.196618 #18795]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T11:49:36.197216 #18795]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T11:49:36.197633 #18795]  INFO -- : NoCo received hole_card 7 of Spades
+I, [2014-04-05T11:49:36.198265 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 360 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:36.199072 #18795]  INFO -- : NoCo made a bet of 320 (raise) and is left with 2160 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:36.209970 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:36.210719 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 360 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:36.211969 #18795]  INFO -- : NoCo won 480
+I, [2014-04-05T11:49:36.218967 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:36.227651 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:36.731394 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:36.731782 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:36.732766 #18795]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T11:49:36.733407 #18795]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T11:49:36.734012 #18795]  INFO -- : NoCo received hole_card 2 of Clubs
+I, [2014-04-05T11:49:36.734591 #18795]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T11:49:36.735501 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2480 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:36.736350 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 40 chips. The pot now contains 480 chips.
+E, [2014-04-05T11:49:37.240073 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:37.240389 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:37.240845 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2480 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:37.249313 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:37.249879 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 40 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:37.251063 #18795]  INFO -- : R3T won 480
+I, [2014-04-05T11:49:37.255776 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:37.258979 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:37.386204 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:37.387219 #18795]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T11:49:37.387782 #18795]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T11:49:37.388462 #18795]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T11:49:37.389086 #18795]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T11:49:37.390045 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 360 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:37.390954 #18795]  INFO -- : NoCo made a bet of 320 (raise) and is left with 2160 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:37.402077 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:37.402786 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 360 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:37.403974 #18795]  INFO -- : NoCo won 480
+I, [2014-04-05T11:49:37.408548 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:37.411100 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:37.415491 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:37.416329 #18795]  INFO -- : NoCo received hole_card 8 of Clubs
+I, [2014-04-05T11:49:37.416512 #18795]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:37.416673 #18795]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T11:49:37.416833 #18795]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T11:49:37.417121 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2480 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:37.417347 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 40 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:37.418832 #18795]  INFO -- : Player NoCo responded with 160 (200)
+I, [2014-04-05T11:49:37.419039 #18795]  INFO -- : NoCo made a bet of 160 (call) and is left with 2320 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:37.422155 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:37.422564 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 40 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:37.423139 #18795]  INFO -- : community card 3 of Diamonds
+I, [2014-04-05T11:49:37.423640 #18795]  INFO -- : community card 7 of Spades
+I, [2014-04-05T11:49:37.424212 #18795]  INFO -- : community card Queen of Diamonds
+E, [2014-04-05T11:49:37.927558 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:37.928025 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:37.928751 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2320 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:37.939263 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:37.940316 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 40 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:37.941243 #18795]  INFO -- : community card 9 of Spades
+E, [2014-04-05T11:49:38.445378 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:38.445732 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:38.446329 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2320 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:38.459646 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:38.460311 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 40 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:38.460584 #18795]  INFO -- : community card Ace of Diamonds
+E, [2014-04-05T11:49:38.962523 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:38.962936 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:38.963399 #18795]  INFO -- : NoCo made a bet of 0 (check) and is left with 2320 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:38.970745 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:38.971653 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 40 chips. The pot now contains 640 chips.
+I, [2014-04-05T11:49:38.973518 #18795]  INFO -- : NoCo showed 3 of Spades,3 of Diamonds,9 of Spades,Queen of Diamonds,Ace of Diamonds making a pair
+I, [2014-04-05T11:49:38.975053 #18795]  INFO -- : R3T showed 7 of Spades,9 of Spades,Queen of Spades,Queen of Diamonds,Ace of Diamonds making a pair
+I, [2014-04-05T11:49:38.975663 #18795]  INFO -- : R3T won 640
+I, [2014-04-05T11:49:38.980075 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:38.983559 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:39.485513 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:39.485911 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:39.486808 #18795]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:39.487393 #18795]  INFO -- : NoCo received hole_card 7 of Diamonds
+I, [2014-04-05T11:49:39.487959 #18795]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T11:49:39.488622 #18795]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T11:49:39.489643 #18795]  INFO -- : R3T made a bet of 160 (raise) and is left with 520 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:39.490496 #18795]  INFO -- : NoCo made a bet of 320 (raise) and is left with 2000 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:39.500281 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:39.501083 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:39.502182 #18795]  INFO -- : NoCo won 480
+I, [2014-04-05T11:49:39.505944 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:39.507854 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T11:49:40.010072 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:40.010442 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:40.011178 #18795]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T11:49:40.011766 #18795]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T11:49:40.012474 #18795]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T11:49:40.013128 #18795]  INFO -- : R3T received hole_card 7 of Diamonds
+I, [2014-04-05T11:49:40.014117 #18795]  INFO -- : NoCo made a bet of 160 (raise) and is left with 2320 chips. The pot now contains 160 chips.
+I, [2014-04-05T11:49:40.015037 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 200 chips. The pot now contains 480 chips.
+E, [2014-04-05T11:49:40.518806 #18795] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T11:49:40.519131 #18795] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T11:49:40.519585 #18795]  INFO -- : NoCo made a bet of 0 (fold) and is left with 2320 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:40.530663 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:40.531375 #18795]  INFO -- : R3T made a bet of 0 (check) and is left with 200 chips. The pot now contains 480 chips.
+I, [2014-04-05T11:49:40.532665 #18795]  INFO -- : R3T won 480
+I, [2014-04-05T11:49:40.538321 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:40.539894 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:40.575050 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:40.575963 #18795]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T11:49:40.576691 #18795]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T11:49:40.577236 #18795]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T11:49:40.577730 #18795]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T11:49:40.578629 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 360 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:40.579086 #18795]  INFO -- : NoCo made a bet of 640 (raise) and is left with 1680 chips. The pot now contains 960 chips.
+I, [2014-04-05T11:49:40.583802 #18795]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T11:49:40.584344 #18795]  INFO -- : R3T made a bet of 0 (fold) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T11:49:40.585065 #18795]  INFO -- : NoCo won 960
+I, [2014-04-05T11:49:40.588263 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:40.590543 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:40.591972 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:40.592301 #18795]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T11:49:40.592472 #18795]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T11:49:40.592624 #18795]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T11:49:40.592792 #18795]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T11:49:40.593045 #18795]  INFO -- : NoCo made a bet of 320 (raise) and is left with 2320 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:40.593259 #18795]  INFO -- : R3T made a bet of 360 (allin) and is left with 0 chips. The pot now contains 680 chips.
+I, [2014-04-05T11:49:40.594656 #18795]  INFO -- : Player NoCo responded with 40 (200)
+I, [2014-04-05T11:49:40.594839 #18795]  INFO -- : NoCo made a bet of 40 (call) and is left with 2280 chips. The pot now contains 720 chips.
+I, [2014-04-05T11:49:40.595045 #18795]  INFO -- : community card 2 of Hearts
+I, [2014-04-05T11:49:40.595225 #18795]  INFO -- : community card 10 of Hearts
+I, [2014-04-05T11:49:40.595393 #18795]  INFO -- : community card King of Spades
+I, [2014-04-05T11:49:40.595573 #18795]  INFO -- : community card 3 of Clubs
+I, [2014-04-05T11:49:40.595752 #18795]  INFO -- : community card Jack of Clubs
+I, [2014-04-05T11:49:40.596460 #18795]  INFO -- : R3T showed 2 of Diamonds,2 of Hearts,10 of Clubs,10 of Hearts,King of Spades making a two pairs
+I, [2014-04-05T11:49:40.597311 #18795]  INFO -- : R3T won 720
+I, [2014-04-05T11:49:40.601760 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:40.605360 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:40.609366 #18795]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T11:49:40.610128 #18795]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T11:49:40.610607 #18795]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T11:49:40.611124 #18795]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T11:49:40.611643 #18795]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T11:49:40.612431 #18795]  INFO -- : R3T made a bet of 320 (raise) and is left with 400 chips. The pot now contains 320 chips.
+I, [2014-04-05T11:49:40.612880 #18795]  INFO -- : NoCo made a bet of 640 (raise) and is left with 1640 chips. The pot now contains 960 chips.
+I, [2014-04-05T11:49:40.618140 #18795]  INFO -- : Player R3T responded with 680 (200)
+I, [2014-04-05T11:49:40.618942 #18795]  INFO -- : R3T made a bet of 400 (allin) and is left with 0 chips. The pot now contains 1360 chips.
+I, [2014-04-05T11:49:40.622614 #18795]  INFO -- : Player NoCo responded with 80 (200)
+I, [2014-04-05T11:49:40.623205 #18795]  INFO -- : NoCo made a bet of 80 (call) and is left with 1560 chips. The pot now contains 1440 chips.
+I, [2014-04-05T11:49:40.623839 #18795]  INFO -- : community card 8 of Clubs
+I, [2014-04-05T11:49:40.624279 #18795]  INFO -- : community card 2 of Spades
+I, [2014-04-05T11:49:40.624467 #18795]  INFO -- : community card 5 of Hearts
+I, [2014-04-05T11:49:40.624685 #18795]  INFO -- : community card 3 of Hearts
+I, [2014-04-05T11:49:40.625016 #18795]  INFO -- : community card Jack of Clubs
+I, [2014-04-05T11:49:40.626042 #18795]  INFO -- : R3T showed 5 of Hearts,8 of Clubs,Jack of Clubs,King of Clubs,King of Diamonds making a pair
+I, [2014-04-05T11:49:40.627604 #18795]  INFO -- : NoCo showed 2 of Hearts,2 of Spades,8 of Hearts,8 of Clubs,Jack of Clubs making a two pairs
+I, [2014-04-05T11:49:40.628358 #18795]  INFO -- : NoCo won 1440
+I, [2014-04-05T11:49:40.632819 #18795]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T11:49:40.636468 #18795]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T11:49:40.640293 #18795]  INFO -- : Player NoCo responded with  (200)

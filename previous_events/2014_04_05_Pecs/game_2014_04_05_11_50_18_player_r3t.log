@@ -1,0 +1,39 @@
+:compileJava/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:5: error: package org.codehaus.jackson.jaxrs does not exist
+import org.codehaus.jackson.jaxrs.JacksonJaxbJsonProvider;
+                                 ^
+/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:7: error: package javax.ws.rs.client does not exist
+import javax.ws.rs.client.Client;
+                         ^
+/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:8: error: package javax.ws.rs.client does not exist
+import javax.ws.rs.client.ClientBuilder;
+                         ^
+/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:61: error: cannot find symbol
+    Client createClient() {
+    ^
+  symbol:   class Client
+  location: class RankingService
+/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:64: error: cannot find symbol
+                .register(JacksonJaxbJsonProvider.class)
+                          ^
+  symbol:   class JacksonJaxbJsonProvider
+  location: class RankingService
+/home/devill/git/poker-player-r3t/src/main/java/org/leanpoker/player/RankingService.java:62: error: cannot find symbol
+        return ClientBuilder
+               ^
+  symbol:   variable ClientBuilder
+  location: class RankingService
+6 errors
+ FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 5.326 secs

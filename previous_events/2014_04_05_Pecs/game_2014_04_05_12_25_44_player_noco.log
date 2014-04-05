@@ -1,0 +1,370 @@
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34380 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34383 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:05 2014] PHP Stack trace:
+[Sat Apr  5 12:26:05 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:05 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:05 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:05 2014] PHP Stack trace:
+[Sat Apr  5 12:26:05 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:05 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34384 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34390 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:05 2014] PHP Stack trace:
+[Sat Apr  5 12:26:05 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:05 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:05 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:05 2014] PHP Stack trace:
+[Sat Apr  5 12:26:05 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:05 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34394 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34397 [200]: /player_service.php
+[Sat Apr  5 12:26:05 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 34
+[Sat Apr  5 12:26:05 2014] PHP Stack trace:
+[Sat Apr  5 12:26:05 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:05 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:05 2014] 127.0.0.1:34399 [200]: /player_service.php
+ - {"cards":[{"rank":"2","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"3","suit":"diamonds"},{"rank":"6","suit":"hearts"},{"rank":"9","suit":"diamonds"}],"cards_used":[{"rank":"2","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"3","suit":"diamonds"},{"rank":"6","suit":"hearts"},{"rank":"9","suit":"diamonds"}],"rank":1,"value":3,"second_value":3,"kickers":[9,6,2]}[Sat Apr  5 12:26:07 2014] 127.0.0.1:34402 [200]: /player_service.php
+ - {"cards":[{"rank":"2","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"3","suit":"diamonds"},{"rank":"6","suit":"hearts"},{"rank":"9","suit":"diamonds"},{"rank":"10","suit":"diamonds"}],"cards_used":[{"rank":"3","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"6","suit":"hearts"},{"rank":"9","suit":"diamonds"},{"rank":"10","suit":"diamonds"}],"rank":1,"value":3,"second_value":3,"kickers":[10,9,6]}[Sat Apr  5 12:26:08 2014] 127.0.0.1:34406 [200]: /player_service.php
+ - {"cards":[{"rank":"2","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"3","suit":"diamonds"},{"rank":"6","suit":"hearts"},{"rank":"9","suit":"diamonds"},{"rank":"10","suit":"diamonds"},{"rank":"K","suit":"spades"}],"cards_used":[{"rank":"3","suit":"diamonds"},{"rank":"3","suit":"clubs"},{"rank":"9","suit":"diamonds"},{"rank":"10","suit":"diamonds"},{"rank":"K","suit":"spades"}],"rank":1,"value":3,"second_value":3,"kickers":[13,10,9]}[Sat Apr  5 12:26:09 2014] 127.0.0.1:34412 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34417 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34419 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34425 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34431 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34436 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34438 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34443 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34444 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34450 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34454 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34457 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34459 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34464 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34465 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34471 [200]: /player_service.php
+[Sat Apr  5 12:26:09 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 34
+[Sat Apr  5 12:26:09 2014] PHP Stack trace:
+[Sat Apr  5 12:26:09 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:09 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:09 2014] 127.0.0.1:34475 [200]: /player_service.php
+ - {"cards":[{"rank":"5","suit":"spades"},{"rank":"5","suit":"diamonds"},{"rank":"6","suit":"spades"},{"rank":"10","suit":"hearts"},{"rank":"10","suit":"spades"}],"cards_used":[{"rank":"5","suit":"diamonds"},{"rank":"5","suit":"spades"},{"rank":"6","suit":"spades"},{"rank":"10","suit":"hearts"},{"rank":"10","suit":"spades"}],"rank":2,"value":10,"second_value":5,"kickers":[6]}[Sat Apr  5 12:26:11 2014] 127.0.0.1:34477 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34481 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34483 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34491 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34492 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34498 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34502 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34505 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34507 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34512 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34513 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34519 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34523 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34526 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34528 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34533 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34534 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34540 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34544 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34547 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34549 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34554 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34555 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34561 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34565 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34568 [200]: /player_service.php
+[Sat Apr  5 12:26:11 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 34
+[Sat Apr  5 12:26:11 2014] PHP Stack trace:
+[Sat Apr  5 12:26:11 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:11 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:11 2014] 127.0.0.1:34570 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34575 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:12 2014] PHP Stack trace:
+[Sat Apr  5 12:26:12 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:12 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:12 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:12 2014] PHP Stack trace:
+[Sat Apr  5 12:26:12 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:12 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34576 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34582 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:12 2014] PHP Stack trace:
+[Sat Apr  5 12:26:12 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:12 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:12 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:12 2014] PHP Stack trace:
+[Sat Apr  5 12:26:12 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:12 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34586 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34589 [200]: /player_service.php
+[Sat Apr  5 12:26:12 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 34
+[Sat Apr  5 12:26:12 2014] PHP Stack trace:
+[Sat Apr  5 12:26:12 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:12 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:12 2014] 127.0.0.1:34591 [200]: /player_service.php
+ - {"cards":[{"rank":"3","suit":"diamonds"},{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"cards_used":[{"rank":"3","suit":"diamonds"},{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"rank":1,"value":13,"second_value":13,"kickers":[10,7,3]}[Sat Apr  5 12:26:14 2014] 127.0.0.1:34594 [200]: /player_service.php
+ - {"cards":[{"rank":"3","suit":"diamonds"},{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"J","suit":"hearts"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"cards_used":[{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"J","suit":"hearts"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"rank":1,"value":13,"second_value":13,"kickers":[11,10,7]}[Sat Apr  5 12:26:16 2014] 127.0.0.1:34598 [200]: /player_service.php
+ - {"cards":[{"rank":"2","suit":"hearts"},{"rank":"3","suit":"diamonds"},{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"J","suit":"hearts"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"cards_used":[{"rank":"7","suit":"spades"},{"rank":"10","suit":"spades"},{"rank":"J","suit":"hearts"},{"rank":"K","suit":"diamonds"},{"rank":"K","suit":"spades"}],"rank":1,"value":13,"second_value":13,"kickers":[11,10,7]}[Sat Apr  5 12:26:18 2014] 127.0.0.1:34604 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34609 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34610 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34617 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34624 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34627 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34630 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34634 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34638 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34644 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34648 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34651 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34653 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34658 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34659 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34665 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34669 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34672 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34674 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34679 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 39
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] PHP Notice:  Undefined variable: bet in /home/devill/git/poker-player-noco/player.php on line 49
+[Sat Apr  5 12:26:18 2014] PHP Stack trace:
+[Sat Apr  5 12:26:18 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 12:26:18 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34680 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34686 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34692 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34698 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34702 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34708 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34712 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34718 [200]: /player_service.php
+[Sat Apr  5 12:26:18 2014] 127.0.0.1:34722 [200]: /player_service.php

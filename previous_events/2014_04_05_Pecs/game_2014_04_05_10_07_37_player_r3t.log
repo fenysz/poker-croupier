@@ -1,0 +1,622 @@
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:tomcatRun
+Started Tomcat Server
+The Server is running at http://localhost:8080
+players : [{"name":"R3T","stack":1000,"status":"active","bet":0,"hole_cards":[{"rank":"Q","suit":"spades"},{"rank":"4","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":990,"status":"active","bet":10,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":980,"status":"active","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 0
+dealer : 0
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":980,"status":"active","bet":20,"hole_cards":[{"rank":"8","suit":"spades"},{"rank":"7","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1000,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 0
+dealer : 1
+community_cards : []
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":980,"status":"active","bet":20,"hole_cards":[{"rank":"8","suit":"spades"},{"rank":"7","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1000,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 0
+dealer : 1
+community_cards : [{"rank":"10","suit":"spades"},{"rank":"7","suit":"clubs"},{"rank":"K","suit":"hearts"}]
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":980,"status":"active","bet":20,"hole_cards":[{"rank":"8","suit":"spades"},{"rank":"7","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":980,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 0
+dealer : 1
+community_cards : [{"rank":"10","suit":"spades"},{"rank":"7","suit":"clubs"},{"rank":"K","suit":"hearts"}]
+current_buy_in : 40
+pot : 70
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":970,"status":"active","bet":10,"hole_cards":[{"rank":"10","suit":"diamonds"},{"rank":"3","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1030,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 0
+dealer : 2
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":970,"status":"active","bet":0,"hole_cards":[{"rank":"Q","suit":"diamonds"},{"rank":"2","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1050,"status":"active","bet":10,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":950,"status":"active","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 1
+dealer : 0
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":950,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"4","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1060,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":940,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 1
+dealer : 1
+community_cards : []
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":950,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"4","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1060,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":940,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 1
+dealer : 1
+community_cards : [{"rank":"8","suit":"spades"},{"rank":"7","suit":"diamonds"},{"rank":"9","suit":"spades"}]
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":950,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"4","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":940,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 1
+dealer : 1
+community_cards : [{"rank":"8","suit":"spades"},{"rank":"7","suit":"diamonds"},{"rank":"9","suit":"spades"}]
+current_buy_in : 40
+pot : 70
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":940,"status":"active","bet":10,"hole_cards":[{"rank":"Q","suit":"hearts"},{"rank":"10","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1090,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":940,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 1
+dealer : 2
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":940,"status":"active","bet":0,"hole_cards":[{"rank":"8","suit":"spades"},{"rank":"3","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1110,"status":"active","bet":10,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":920,"status":"active","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 2
+dealer : 0
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":920,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"Q","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1120,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":910,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 2
+dealer : 1
+community_cards : []
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":920,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"Q","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1120,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":910,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 2
+dealer : 1
+community_cards : [{"rank":"10","suit":"spades"},{"rank":"K","suit":"hearts"},{"rank":"Q","suit":"diamonds"}]
+current_buy_in : 20
+pot : 50
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":920,"status":"active","bet":20,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"Q","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1100,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":910,"status":"folded","bet":10,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 2
+dealer : 1
+community_cards : [{"rank":"10","suit":"spades"},{"rank":"K","suit":"hearts"},{"rank":"Q","suit":"diamonds"}]
+current_buy_in : 40
+pot : 70
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":10,"hole_cards":[{"rank":"J","suit":"clubs"},{"rank":"Q","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1150,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":910,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 2
+dealer : 2
+community_cards : []
+current_buy_in : 20
+pot : 30
+in_action : 0
+minimum_raise : 10
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"5","suit":"spades"},{"rank":"3","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1160,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":870,"status":"active","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 3
+dealer : 0
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":870,"status":"active","bet":40,"hole_cards":[{"rank":"A","suit":"hearts"},{"rank":"7","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1140,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":930,"status":"folded","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 3
+dealer : 1
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":20,"hole_cards":[{"rank":"3","suit":"clubs"},{"rank":"9","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1100,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":930,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 3
+dealer : 2
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"6","suit":"spades"},{"rank":"Q","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1140,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":890,"status":"active","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 4
+dealer : 0
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":870,"status":"active","bet":40,"hole_cards":[{"rank":"Q","suit":"spades"},{"rank":"J","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1120,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":950,"status":"folded","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 4
+dealer : 1
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":20,"hole_cards":[{"rank":"5","suit":"hearts"},{"rank":"K","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":950,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 4
+dealer : 2
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"10","suit":"clubs"},{"rank":"2","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1120,"status":"active","bet":20,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":910,"status":"active","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 5
+dealer : 0
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":870,"status":"active","bet":40,"hole_cards":[{"rank":"3","suit":"spades"},{"rank":"K","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1100,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 5
+dealer : 1
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":20,"hole_cards":[{"rank":"6","suit":"hearts"},{"rank":"5","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1060,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 5
+dealer : 2
+community_cards : []
+current_buy_in : 40
+pot : 60
+in_action : 0
+minimum_raise : 20
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"K","suit":"clubs"},{"rank":"7","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":890,"status":"active","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 6
+dealer : 0
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":830,"status":"active","bet":80,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"10","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 6
+dealer : 1
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":40,"hole_cards":[{"rank":"K","suit":"spades"},{"rank":"4","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1000,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 6
+dealer : 2
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"A","suit":"diamonds"},{"rank":"K","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":890,"status":"active","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 7
+dealer : 0
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":830,"status":"active","bet":80,"hole_cards":[{"rank":"5","suit":"spades"},{"rank":"9","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 7
+dealer : 1
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":40,"hole_cards":[{"rank":"3","suit":"diamonds"},{"rank":"9","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1000,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 7
+dealer : 2
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"9","suit":"hearts"},{"rank":"K","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"active","bet":40,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":890,"status":"active","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 8
+dealer : 0
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":830,"status":"active","bet":80,"hole_cards":[{"rank":"10","suit":"spades"},{"rank":"K","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1080,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":40,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 8
+dealer : 1
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":40,"hole_cards":[{"rank":"A","suit":"hearts"},{"rank":"A","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1000,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 8
+dealer : 2
+community_cards : []
+current_buy_in : 80
+pot : 120
+in_action : 0
+minimum_raise : 40
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"8","suit":"spades"},{"rank":"A","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":810,"status":"active","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 9
+dealer : 0
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":750,"status":"active","bet":160,"hole_cards":[{"rank":"7","suit":"hearts"},{"rank":"10","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 9
+dealer : 1
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":80,"hole_cards":[{"rank":"7","suit":"hearts"},{"rank":"Q","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":880,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 9
+dealer : 2
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"J","suit":"hearts"},{"rank":"5","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":810,"status":"active","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 10
+dealer : 0
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":750,"status":"active","bet":160,"hole_cards":[{"rank":"K","suit":"hearts"},{"rank":"2","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 10
+dealer : 1
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":80,"hole_cards":[{"rank":"6","suit":"hearts"},{"rank":"6","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":880,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 10
+dealer : 2
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"7","suit":"diamonds"},{"rank":"4","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"active","bet":80,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":810,"status":"active","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 11
+dealer : 0
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":750,"status":"active","bet":160,"hole_cards":[{"rank":"J","suit":"spades"},{"rank":"10","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":1040,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":80,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 11
+dealer : 1
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":80,"hole_cards":[{"rank":"5","suit":"clubs"},{"rank":"4","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":880,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 11
+dealer : 2
+community_cards : []
+current_buy_in : 160
+pot : 240
+in_action : 0
+minimum_raise : 80
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"10","suit":"spades"},{"rank":"Q","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":650,"status":"active","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 12
+dealer : 0
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":590,"status":"active","bet":320,"hole_cards":[{"rank":"4","suit":"clubs"},{"rank":"K","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 12
+dealer : 1
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":160,"hole_cards":[{"rank":"Q","suit":"clubs"},{"rank":"5","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":640,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 12
+dealer : 2
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"Q","suit":"spades"},{"rank":"10","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":650,"status":"active","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 13
+dealer : 0
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":590,"status":"active","bet":320,"hole_cards":[{"rank":"9","suit":"diamonds"},{"rank":"3","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 13
+dealer : 1
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":160,"hole_cards":[{"rank":"7","suit":"hearts"},{"rank":"K","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":640,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 13
+dealer : 2
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"2","suit":"spades"},{"rank":"Q","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"active","bet":160,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":650,"status":"active","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 14
+dealer : 0
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":590,"status":"active","bet":320,"hole_cards":[{"rank":"J","suit":"hearts"},{"rank":"7","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":960,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":160,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 14
+dealer : 1
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":160,"hole_cards":[{"rank":"2","suit":"diamonds"},{"rank":"8","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":640,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 14
+dealer : 2
+community_cards : []
+current_buy_in : 320
+pot : 480
+in_action : 0
+minimum_raise : 160
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"5","suit":"diamonds"},{"rank":"K","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":330,"status":"active","bet":640,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 15
+dealer : 0
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":270,"status":"active","bet":640,"hole_cards":[{"rank":"4","suit":"hearts"},{"rank":"9","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 15
+dealer : 1
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":320,"hole_cards":[{"rank":"7","suit":"hearts"},{"rank":"10","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":160,"status":"active","bet":640,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 15
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"7","suit":"diamonds"},{"rank":"8","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":330,"status":"active","bet":640,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 16
+dealer : 0
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":270,"status":"active","bet":640,"hole_cards":[{"rank":"8","suit":"clubs"},{"rank":"4","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 16
+dealer : 1
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":320,"hole_cards":[{"rank":"4","suit":"clubs"},{"rank":"5","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":160,"status":"active","bet":640,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 16
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"K","suit":"clubs"},{"rank":"3","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":330,"status":"active","bet":640,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 17
+dealer : 0
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":270,"status":"active","bet":640,"hole_cards":[{"rank":"10","suit":"clubs"},{"rank":"7","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":800,"status":"folded","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":320,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 17
+dealer : 1
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":320,"hole_cards":[{"rank":"9","suit":"spades"},{"rank":"10","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":160,"status":"active","bet":640,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 17
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 320
+players : [{"name":"R3T","stack":910,"status":"active","bet":0,"hole_cards":[{"rank":"9","suit":"diamonds"},{"rank":"6","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":480,"status":"active","bet":640,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":0,"status":"active","bet":970,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 18
+dealer : 0
+community_cards : []
+current_buy_in : 970
+pot : 1610
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":910,"status":"active","bet":640,"hole_cards":[{"rank":"K","suit":"diamonds"},{"rank":"2","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"active","bet":480,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 18
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 1120
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":1070,"status":"active","bet":0,"hole_cards":[{"rank":"9","suit":"clubs"},{"rank":"4","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":320,"status":"active","bet":640,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":0,"status":"active","bet":970,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 19
+dealer : 0
+community_cards : []
+current_buy_in : 970
+pot : 1610
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":1070,"status":"active","bet":640,"hole_cards":[{"rank":"10","suit":"spades"},{"rank":"K","suit":"clubs"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"active","bet":320,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":970,"status":"folded","bet":0,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 19
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 960
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":750,"status":"active","bet":1280,"hole_cards":[{"rank":"3","suit":"hearts"},{"rank":"7","suit":"spades"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"out","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":330,"status":"folded","bet":640,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 20
+dealer : 0
+community_cards : []
+current_buy_in : 1280
+pot : 1920
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":2030,"status":"active","bet":640,"hole_cards":[{"rank":"6","suit":"clubs"},{"rank":"6","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"out","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":0,"status":"active","bet":330,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 20
+dealer : 2
+community_cards : []
+current_buy_in : 640
+pot : 970
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":1060,"status":"active","bet":1280,"hole_cards":[{"rank":"Q","suit":"clubs"},{"rank":"J","suit":"diamonds"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"out","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":20,"status":"folded","bet":640,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 20
+dealer : 0
+community_cards : []
+current_buy_in : 1280
+pot : 1920
+in_action : 0
+minimum_raise : 640
+players : [{"name":"R3T","stack":1700,"status":"active","bet":1280,"hole_cards":[{"rank":"8","suit":"clubs"},{"rank":"5","suit":"hearts"}],"version":"","id":0},{"name":"Mr Bazinga","stack":0,"status":"out","bet":0,"version":"Mr Bazinga version 0.1","id":1},{"name":"NoCo","stack":0,"status":"active","bet":20,"version":"NoCo","id":2}]
+small_blind : 10
+orbits : 21
+dealer : 2
+community_cards : []
+current_buy_in : 1280
+pot : 1300
+in_action : 0
+minimum_raise : 1280
+
+BUILD SUCCESSFUL
+
+Total time: 22.399 secs

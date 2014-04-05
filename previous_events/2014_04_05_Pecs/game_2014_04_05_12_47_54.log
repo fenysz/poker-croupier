@@ -1,0 +1,1144 @@
+# Logfile created on 2014-04-05 12:47:54 +0200 by logger.rb/44203
+I, [2014-04-05T12:47:54.697282 #5562]  INFO -- : Reseting R3T to origin/master
+I, [2014-04-05T12:47:55.533612 #5562]  INFO -- : Reseting Mr Bazinga to origin/master
+I, [2014-04-05T12:47:56.370941 #5562]  INFO -- : Reseting NoCo to origin/master
+I, [2014-04-05T12:47:58.023553 #5562]  INFO -- : Connected R3T at http://localhost:8080/
+I, [2014-04-05T12:47:58.027267 #5562]  INFO -- : Connected Mr Bazinga at http://localhost:1337/
+I, [2014-04-05T12:47:58.030930 #5562]  INFO -- : Connected NoCo at http://localhost:8000/player_service.php
+E, [2014-04-05T12:47:58.034097 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:47:58.034273 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:47:58.034380 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:47:59.037354 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:47:59.037549 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:47:59.037657 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:00.041901 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:00.042049 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:00.042134 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:01.043787 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:01.043999 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:01.044136 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:02.051804 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:02.052035 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:02.052185 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:03.052822 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:03.052992 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:03.053098 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:04.062421 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:04.062636 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:04.062747 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:05.063408 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:05.063574 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:05.063685 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:06.070544 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:06.070748 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:06.070847 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:07.071518 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:07.071772 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:07.071933 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:08.077860 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:08.078038 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:08.078180 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:09.078758 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:09.078869 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:09.078918 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:10.079469 #5562] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T12:48:10.079592 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:10.079677 #5562]  INFO -- : Waiting for players to start
+E, [2014-04-05T12:48:11.581878 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:11.582042 #5562] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T12:48:11.582152 #5562]  INFO -- : Waiting for players to start
+I, [2014-04-05T12:48:12.588793 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.607420 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.609813 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.610311 #5562]  INFO -- : Players are running
+I, [2014-04-05T12:48:12.632997 #5562]  INFO -- : Player R3T responded with v0.1 (200)
+I, [2014-04-05T12:48:12.636618 #5562]  INFO -- : Player Mr Bazinga responded with Mr Bazinga PreFlop Version (200)
+I, [2014-04-05T12:48:12.641027 #5562]  INFO -- : Player NoCo responded with NoCo1247 (200)
+I, [2014-04-05T12:48:12.642683 #5562]  INFO -- : Mr Bazinga received hole_card King of Spades
+I, [2014-04-05T12:48:12.644057 #5562]  INFO -- : NoCo received hole_card 9 of Clubs
+I, [2014-04-05T12:48:12.645337 #5562]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T12:48:12.647260 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T12:48:12.647762 #5562]  INFO -- : NoCo received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:12.648421 #5562]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T12:48:12.652681 #5562]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.653177 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.740228 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.740502 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.744206 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:12.744403 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.759184 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.759416 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.759890 #5562]  INFO -- : NoCo won 30
+I, [2014-04-05T12:48:12.762741 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.764895 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.768413 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.769012 #5562]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T12:48:12.769509 #5562]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T12:48:12.770004 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Hearts
+I, [2014-04-05T12:48:12.770436 #5562]  INFO -- : NoCo received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:12.770830 #5562]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T12:48:12.771181 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Diamonds
+I, [2014-04-05T12:48:12.771762 #5562]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.772241 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.774600 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:12.774842 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.776725 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.776970 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.792287 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.792679 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.793444 #5562]  INFO -- : R3T won 30
+I, [2014-04-05T12:48:12.799363 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.806365 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.810577 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.811076 #5562]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:12.811360 #5562]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T12:48:12.811649 #5562]  INFO -- : NoCo received hole_card 6 of Diamonds
+I, [2014-04-05T12:48:12.811960 #5562]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T12:48:12.812376 #5562]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T12:48:12.812730 #5562]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T12:48:12.813368 #5562]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.813904 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.818839 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.819237 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.839056 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.839420 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.849290 #5562]  INFO -- : Player Mr Bazinga responded with 210 (200)
+I, [2014-04-05T12:48:12.849623 #5562]  INFO -- : Mr Bazinga made a bet of 210 (raise) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:12.850346 #5562]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T12:48:12.856111 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.869255 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.872962 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.873325 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T12:48:12.873608 #5562]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T12:48:12.873902 #5562]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T12:48:12.874147 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T12:48:12.874377 #5562]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T12:48:12.874551 #5562]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:12.874874 #5562]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.875130 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.885466 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.887056 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.890235 #5562]  INFO -- : Player Mr Bazinga responded with 70 (200)
+I, [2014-04-05T12:48:12.890702 #5562]  INFO -- : Mr Bazinga made a bet of 70 (raise) and is left with 920 chips. The pot now contains 100 chips.
+I, [2014-04-05T12:48:12.894248 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.894591 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 980 chips. The pot now contains 100 chips.
+I, [2014-04-05T12:48:12.897171 #5562]  INFO -- : Mr Bazinga won 100
+I, [2014-04-05T12:48:12.900021 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.904760 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.906906 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.907242 #5562]  INFO -- : NoCo received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:12.907414 #5562]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T12:48:12.907555 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:12.907728 #5562]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T12:48:12.907872 #5562]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:12.908037 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T12:48:12.908434 #5562]  INFO -- : NoCo made a bet of 10 (raise) and is left with 970 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.908670 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.910737 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:12.911005 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1020 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.913272 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.913567 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.926137 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.926511 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.926893 #5562]  INFO -- : R3T won 30
+I, [2014-04-05T12:48:12.930036 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.932819 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.935244 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.936415 #5562]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T12:48:12.937103 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Diamonds
+I, [2014-04-05T12:48:12.937787 #5562]  INFO -- : NoCo received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:12.938110 #5562]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T12:48:12.938718 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T12:48:12.939436 #5562]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T12:48:12.939942 #5562]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.940421 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.943719 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.943961 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.956288 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.956590 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.958451 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:12.958792 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.959402 #5562]  INFO -- : Mr Bazinga won 30
+I, [2014-04-05T12:48:12.964745 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:12.967088 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:12.969736 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:12.970617 #5562]  INFO -- : Mr Bazinga received hole_card Jack of Spades
+I, [2014-04-05T12:48:12.971633 #5562]  INFO -- : NoCo received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:12.972281 #5562]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T12:48:12.972824 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Hearts
+I, [2014-04-05T12:48:12.973292 #5562]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T12:48:12.973766 #5562]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T12:48:12.974641 #5562]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 1020 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:12.975367 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 950 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.989135 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:12.989413 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.994821 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:12.995054 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1020 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.997051 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:12.997685 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 950 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:12.998820 #5562]  INFO -- : NoCo won 30
+I, [2014-04-05T12:48:13.004846 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.006955 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.009822 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.011143 #5562]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T12:48:13.012001 #5562]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T12:48:13.012996 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Spades
+I, [2014-04-05T12:48:13.013970 #5562]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T12:48:13.014855 #5562]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T12:48:13.015950 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Hearts
+I, [2014-04-05T12:48:13.016536 #5562]  INFO -- : NoCo made a bet of 10 (raise) and is left with 970 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:13.016913 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.022213 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.022563 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1020 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.025575 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.025794 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.032601 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.033058 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.034060 #5562]  INFO -- : R3T won 30
+I, [2014-04-05T12:48:13.039716 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.042921 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.046289 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.047391 #5562]  INFO -- : R3T received hole_card 5 of Clubs
+I, [2014-04-05T12:48:13.048021 #5562]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T12:48:13.048434 #5562]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T12:48:13.049029 #5562]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T12:48:13.049781 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:13.050400 #5562]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T12:48:13.051394 #5562]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T12:48:13.052630 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.056776 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.056945 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.071709 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.072331 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T12:48:13.076360 #5562]  INFO -- : Player Mr Bazinga responded with 60 (200)
+I, [2014-04-05T12:48:13.077208 #5562]  INFO -- : Mr Bazinga made a bet of 60 (raise) and is left with 940 chips. The pot now contains 90 chips.
+I, [2014-04-05T12:48:13.078435 #5562]  INFO -- : Mr Bazinga won 90
+I, [2014-04-05T12:48:13.081697 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.083253 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.084720 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.085144 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:13.085463 #5562]  INFO -- : NoCo received hole_card King of Diamonds
+I, [2014-04-05T12:48:13.085715 #5562]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T12:48:13.086062 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Clubs
+I, [2014-04-05T12:48:13.086313 #5562]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T12:48:13.086613 #5562]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T12:48:13.087028 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 1010 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.087397 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 930 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.091630 #5562]  INFO -- : Player R3T responded with 640 (200)
+I, [2014-04-05T12:48:13.091893 #5562]  INFO -- : R3T made a bet of 640 (raise) and is left with 360 chips. The pot now contains 700 chips.
+I, [2014-04-05T12:48:13.094734 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.095260 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1010 chips. The pot now contains 700 chips.
+I, [2014-04-05T12:48:13.099476 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.100204 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 930 chips. The pot now contains 700 chips.
+I, [2014-04-05T12:48:13.101431 #5562]  INFO -- : R3T won 700
+I, [2014-04-05T12:48:13.106360 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.111631 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.116763 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.118617 #5562]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T12:48:13.118939 #5562]  INFO -- : R3T received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:13.119645 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T12:48:13.120322 #5562]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T12:48:13.120911 #5562]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:13.121604 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Clubs
+I, [2014-04-05T12:48:13.122580 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 910 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.123387 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.126660 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.127498 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1010 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.131941 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.132153 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 910 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.143207 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.143642 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.144279 #5562]  INFO -- : R3T won 60
+I, [2014-04-05T12:48:13.148922 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.151448 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.153267 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.153578 #5562]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T12:48:13.153748 #5562]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T12:48:13.153889 #5562]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T12:48:13.154058 #5562]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T12:48:13.154217 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.154378 #5562]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T12:48:13.154643 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 1060 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.154880 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 970 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.156507 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.156688 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 910 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.167489 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.167841 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.170932 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.171181 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 970 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.171565 #5562]  INFO -- : Mr Bazinga won 60
+I, [2014-04-05T12:48:13.173875 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.176456 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.178891 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.179236 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:13.179478 #5562]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T12:48:13.179677 #5562]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T12:48:13.179889 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:13.180135 #5562]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.180320 #5562]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T12:48:13.180641 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 1010 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.180917 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 870 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.189686 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.190147 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.194423 #5562]  INFO -- : Player Mr Bazinga responded with 90 (200)
+I, [2014-04-05T12:48:13.195190 #5562]  INFO -- : Mr Bazinga made a bet of 90 (raise) and is left with 920 chips. The pot now contains 150 chips.
+I, [2014-04-05T12:48:13.198865 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.199226 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 870 chips. The pot now contains 150 chips.
+I, [2014-04-05T12:48:13.200543 #5562]  INFO -- : Mr Bazinga won 150
+I, [2014-04-05T12:48:13.203306 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.205083 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.206853 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.207156 #5562]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T12:48:13.207312 #5562]  INFO -- : R3T received hole_card 2 of Clubs
+I, [2014-04-05T12:48:13.207532 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Hearts
+I, [2014-04-05T12:48:13.207713 #5562]  INFO -- : NoCo received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:13.207867 #5562]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T12:48:13.208067 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T12:48:13.208342 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 850 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.208573 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.210308 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.210495 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1070 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.212397 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.212585 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 850 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.225015 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.225550 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.226102 #5562]  INFO -- : R3T won 60
+I, [2014-04-05T12:48:13.231314 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.235710 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.238325 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.238606 #5562]  INFO -- : R3T received hole_card 7 of Spades
+I, [2014-04-05T12:48:13.238753 #5562]  INFO -- : Mr Bazinga received hole_card Jack of Hearts
+I, [2014-04-05T12:48:13.238916 #5562]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T12:48:13.239077 #5562]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T12:48:13.239244 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T12:48:13.239442 #5562]  INFO -- : NoCo received hole_card 2 of Spades
+I, [2014-04-05T12:48:13.239700 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 1060 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.239927 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 1030 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.241508 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.242118 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 850 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.258781 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.259811 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.264094 #5562]  INFO -- : Player Mr Bazinga responded with 70 (200)
+I, [2014-04-05T12:48:13.264607 #5562]  INFO -- : Mr Bazinga made a bet of 70 (raise) and is left with 960 chips. The pot now contains 130 chips.
+I, [2014-04-05T12:48:13.265797 #5562]  INFO -- : Mr Bazinga won 130
+I, [2014-04-05T12:48:13.268785 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.271792 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.274518 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.274809 #5562]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T12:48:13.274981 #5562]  INFO -- : NoCo received hole_card 5 of Clubs
+I, [2014-04-05T12:48:13.275156 #5562]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T12:48:13.275339 #5562]  INFO -- : Mr Bazinga received hole_card Jack of Diamonds
+I, [2014-04-05T12:48:13.275516 #5562]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T12:48:13.275695 #5562]  INFO -- : R3T received hole_card 9 of Diamonds
+I, [2014-04-05T12:48:13.275980 #5562]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 1070 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.276226 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 810 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.291464 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.292474 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.296624 #5562]  INFO -- : Player Mr Bazinga responded with 90 (200)
+I, [2014-04-05T12:48:13.296935 #5562]  INFO -- : Mr Bazinga made a bet of 90 (raise) and is left with 980 chips. The pot now contains 150 chips.
+I, [2014-04-05T12:48:13.299405 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.299588 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 810 chips. The pot now contains 150 chips.
+I, [2014-04-05T12:48:13.299925 #5562]  INFO -- : Mr Bazinga won 150
+I, [2014-04-05T12:48:13.304544 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.306391 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.308119 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.308441 #5562]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T12:48:13.308605 #5562]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T12:48:13.308778 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Diamonds
+I, [2014-04-05T12:48:13.308973 #5562]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T12:48:13.309161 #5562]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T12:48:13.309314 #5562]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T12:48:13.309577 #5562]  INFO -- : NoCo made a bet of 20 (raise) and is left with 790 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.309803 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.312708 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.313085 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1130 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.315610 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.315918 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.324642 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.324939 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 1020 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.325432 #5562]  INFO -- : R3T won 60
+I, [2014-04-05T12:48:13.327724 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.329707 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.333063 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.334021 #5562]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.334633 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Clubs
+I, [2014-04-05T12:48:13.335169 #5562]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T12:48:13.335719 #5562]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:13.336343 #5562]  INFO -- : Mr Bazinga received hole_card King of Spades
+I, [2014-04-05T12:48:13.336959 #5562]  INFO -- : NoCo received hole_card Jack of Clubs
+I, [2014-04-05T12:48:13.337843 #5562]  INFO -- : R3T made a bet of 20 (raise) and is left with 1060 chips. The pot now contains 20 chips.
+I, [2014-04-05T12:48:13.338842 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 1090 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.342106 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.342661 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.357805 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.358063 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.359878 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.360105 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1090 chips. The pot now contains 60 chips.
+I, [2014-04-05T12:48:13.360497 #5562]  INFO -- : Mr Bazinga won 60
+I, [2014-04-05T12:48:13.362839 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.364358 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.366041 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.366942 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Clubs
+I, [2014-04-05T12:48:13.367602 #5562]  INFO -- : NoCo received hole_card Ace of Spades
+I, [2014-04-05T12:48:13.368150 #5562]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T12:48:13.368321 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T12:48:13.368508 #5562]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T12:48:13.368653 #5562]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T12:48:13.368928 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 1110 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.369151 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 710 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.374887 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.375223 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.377251 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.377580 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1110 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.379940 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.380781 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 710 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.381414 #5562]  INFO -- : NoCo won 120
+I, [2014-04-05T12:48:13.384444 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.387360 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.391009 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.391572 #5562]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:13.391968 #5562]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T12:48:13.392489 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:13.393024 #5562]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T12:48:13.393593 #5562]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T12:48:13.394171 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Hearts
+I, [2014-04-05T12:48:13.395086 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 790 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.396038 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.399493 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.399714 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1110 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.403813 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.404503 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.417849 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.418574 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.419777 #5562]  INFO -- : R3T won 120
+I, [2014-04-05T12:48:13.423333 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.428763 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.431270 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.431744 #5562]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T12:48:13.432584 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T12:48:13.433187 #5562]  INFO -- : NoCo received hole_card 6 of Hearts
+I, [2014-04-05T12:48:13.433870 #5562]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T12:48:13.434474 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Hearts
+I, [2014-04-05T12:48:13.435168 #5562]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T12:48:13.435743 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1060 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.436003 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1030 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.438436 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.438739 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.452631 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.452877 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.455330 #5562]  INFO -- : Player Mr Bazinga responded with 90 (200)
+I, [2014-04-05T12:48:13.455507 #5562]  INFO -- : Mr Bazinga made a bet of 90 (raise) and is left with 940 chips. The pot now contains 210 chips.
+I, [2014-04-05T12:48:13.455865 #5562]  INFO -- : Mr Bazinga won 210
+I, [2014-04-05T12:48:13.461237 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.467923 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.471651 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.472175 #5562]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T12:48:13.472432 #5562]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T12:48:13.473022 #5562]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:13.473611 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Spades
+I, [2014-04-05T12:48:13.474192 #5562]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T12:48:13.474768 #5562]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T12:48:13.475656 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 1110 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.476254 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 710 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.491000 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.491282 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.493200 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.493412 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1110 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.495983 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.496349 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 710 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.496742 #5562]  INFO -- : NoCo won 120
+I, [2014-04-05T12:48:13.499943 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.502533 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.505554 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.505906 #5562]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.506112 #5562]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T12:48:13.506303 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T12:48:13.506560 #5562]  INFO -- : NoCo received hole_card Jack of Clubs
+I, [2014-04-05T12:48:13.506776 #5562]  INFO -- : R3T received hole_card 6 of Clubs
+I, [2014-04-05T12:48:13.506963 #5562]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T12:48:13.507311 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 790 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.507685 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.509276 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.509461 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1110 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.510961 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.511156 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.522795 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.523140 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.524305 #5562]  INFO -- : R3T won 120
+I, [2014-04-05T12:48:13.527958 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.530747 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.535021 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.535950 #5562]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T12:48:13.536326 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:13.536471 #5562]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T12:48:13.536633 #5562]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T12:48:13.536801 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T12:48:13.537011 #5562]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T12:48:13.537280 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1060 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.537510 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1030 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.541445 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.542068 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 790 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.552401 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.552781 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.556503 #5562]  INFO -- : Player Mr Bazinga responded with 90 (200)
+I, [2014-04-05T12:48:13.557008 #5562]  INFO -- : Mr Bazinga made a bet of 90 (raise) and is left with 940 chips. The pot now contains 210 chips.
+I, [2014-04-05T12:48:13.558197 #5562]  INFO -- : Mr Bazinga won 210
+I, [2014-04-05T12:48:13.561911 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.564476 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.567435 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.567779 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Clubs
+I, [2014-04-05T12:48:13.567980 #5562]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:13.568216 #5562]  INFO -- : R3T received hole_card 9 of Diamonds
+I, [2014-04-05T12:48:13.568420 #5562]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T12:48:13.568623 #5562]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T12:48:13.568815 #5562]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T12:48:13.569122 #5562]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 1110 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.569385 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 710 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.577333 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.577719 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.579939 #5562]  INFO -- : Player Mr Bazinga responded with 130 (200)
+I, [2014-04-05T12:48:13.580263 #5562]  INFO -- : Mr Bazinga made a bet of 130 (raise) and is left with 980 chips. The pot now contains 250 chips.
+I, [2014-04-05T12:48:13.582417 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.582594 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 710 chips. The pot now contains 250 chips.
+I, [2014-04-05T12:48:13.582928 #5562]  INFO -- : Mr Bazinga won 250
+I, [2014-04-05T12:48:13.586346 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.589260 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.591767 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.592256 #5562]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T12:48:13.592508 #5562]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T12:48:13.592721 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Clubs
+I, [2014-04-05T12:48:13.593218 #5562]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T12:48:13.593741 #5562]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T12:48:13.594223 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Spades
+I, [2014-04-05T12:48:13.594931 #5562]  INFO -- : NoCo made a bet of 40 (raise) and is left with 670 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.595550 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.599147 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.599401 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1230 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.601816 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.602413 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 670 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.612513 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.613128 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.614396 #5562]  INFO -- : R3T won 120
+I, [2014-04-05T12:48:13.620564 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.623372 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.628443 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.629153 #5562]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:13.629614 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T12:48:13.630020 #5562]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T12:48:13.630466 #5562]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T12:48:13.631047 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.631551 #5562]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T12:48:13.632249 #5562]  INFO -- : R3T made a bet of 40 (raise) and is left with 1060 chips. The pot now contains 40 chips.
+I, [2014-04-05T12:48:13.632489 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1150 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.633981 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.634212 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 670 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.644817 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.645196 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.648185 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.648399 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1150 chips. The pot now contains 120 chips.
+I, [2014-04-05T12:48:13.648753 #5562]  INFO -- : Mr Bazinga won 120
+I, [2014-04-05T12:48:13.651274 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.653638 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.657008 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.657332 #5562]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T12:48:13.657510 #5562]  INFO -- : NoCo received hole_card 9 of Spades
+I, [2014-04-05T12:48:13.657689 #5562]  INFO -- : R3T received hole_card 9 of Diamonds
+I, [2014-04-05T12:48:13.657863 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.658056 #5562]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T12:48:13.658243 #5562]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T12:48:13.658529 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1190 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:13.658828 #5562]  INFO -- : NoCo made a bet of 160 (raise) and is left with 510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.668588 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.668957 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.671022 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.671334 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1190 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.674386 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.674620 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.674994 #5562]  INFO -- : NoCo won 240
+I, [2014-04-05T12:48:13.677601 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.680500 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.682718 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.683403 #5562]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T12:48:13.683636 #5562]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T12:48:13.683822 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Spades
+I, [2014-04-05T12:48:13.684036 #5562]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T12:48:13.684282 #5562]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T12:48:13.684518 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Hearts
+I, [2014-04-05T12:48:13.684802 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 670 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:13.685101 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 900 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.688588 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.688792 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1190 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.691915 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.692390 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 670 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.706864 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.707410 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 900 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.708564 #5562]  INFO -- : R3T won 240
+I, [2014-04-05T12:48:13.711985 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.714156 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.718295 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.718613 #5562]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:13.718769 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T12:48:13.718933 #5562]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T12:48:13.719092 #5562]  INFO -- : R3T received hole_card King of Diamonds
+I, [2014-04-05T12:48:13.719261 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Spades
+I, [2014-04-05T12:48:13.719416 #5562]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T12:48:13.719696 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 1060 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:13.719919 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1030 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.721445 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.721657 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 670 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.727531 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.727846 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.733001 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.733431 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1030 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.734708 #5562]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T12:48:13.738570 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.741649 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.746953 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.747416 #5562]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T12:48:13.747864 #5562]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:13.748115 #5562]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T12:48:13.748341 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Clubs
+I, [2014-04-05T12:48:13.748617 #5562]  INFO -- : NoCo received hole_card 7 of Spades
+I, [2014-04-05T12:48:13.748822 #5562]  INFO -- : R3T received hole_card Jack of Spades
+I, [2014-04-05T12:48:13.749151 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1190 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:13.749583 #5562]  INFO -- : NoCo made a bet of 160 (raise) and is left with 510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.758652 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.758945 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1060 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.761531 #5562]  INFO -- : Player Mr Bazinga responded with 210 (200)
+I, [2014-04-05T12:48:13.761953 #5562]  INFO -- : Mr Bazinga made a bet of 210 (raise) and is left with 980 chips. The pot now contains 450 chips.
+I, [2014-04-05T12:48:13.764994 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:13.765156 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 510 chips. The pot now contains 450 chips.
+I, [2014-04-05T12:48:13.765507 #5562]  INFO -- : Mr Bazinga won 450
+I, [2014-04-05T12:48:13.768634 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:13.772503 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:13.774863 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:13.775350 #5562]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T12:48:13.775605 #5562]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T12:48:13.775853 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Clubs
+I, [2014-04-05T12:48:13.776181 #5562]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T12:48:13.776433 #5562]  INFO -- : R3T received hole_card 7 of Spades
+I, [2014-04-05T12:48:13.776709 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:13.777132 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 430 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:13.777529 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 900 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.779915 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:13.780230 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1430 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:13.781985 #5562]  INFO -- : Player NoCo responded with 80 (200)
+I, [2014-04-05T12:48:13.782303 #5562]  INFO -- : NoCo made a bet of 80 (call) and is left with 350 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:13.789581 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:13.790020 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 900 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:13.790348 #5562]  INFO -- : community card Jack of Diamonds
+I, [2014-04-05T12:48:13.790520 #5562]  INFO -- : community card 9 of Clubs
+I, [2014-04-05T12:48:13.790712 #5562]  INFO -- : community card 8 of Spades
+E, [2014-04-05T12:48:14.293798 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:14.294157 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:14.294684 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 350 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:14.310096 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:14.310731 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 900 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:14.311531 #5562]  INFO -- : community card 4 of Clubs
+E, [2014-04-05T12:48:14.815652 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:14.816019 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:14.816537 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 350 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:14.834990 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:14.835265 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 900 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:14.835529 #5562]  INFO -- : community card Ace of Diamonds
+E, [2014-04-05T12:48:15.338101 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:15.338474 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:15.339107 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 350 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:15.352973 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:15.353592 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 900 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:15.355359 #5562]  INFO -- : NoCo showed 9 of Clubs,Jack of Diamonds,King of Hearts,King of Spades,Ace of Diamonds making a pair
+I, [2014-04-05T12:48:15.356732 #5562]  INFO -- : NoCo won 320
+I, [2014-04-05T12:48:15.361131 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:15.368494 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T12:48:15.871540 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:15.871865 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:15.872316 #5562]  INFO -- : R3T received hole_card 4 of Clubs
+I, [2014-04-05T12:48:15.872922 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T12:48:15.873498 #5562]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T12:48:15.874032 #5562]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T12:48:15.874528 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T12:48:15.875093 #5562]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:15.876036 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 820 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:15.877012 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1270 chips. The pot now contains 240 chips.
+E, [2014-04-05T12:48:16.381138 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:16.381330 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:16.381504 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 670 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.390902 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:16.391189 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.393808 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:16.394113 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1270 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.394719 #5562]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T12:48:16.398182 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:16.400122 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+E, [2014-04-05T12:48:16.902036 #5562] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T12:48:16.902386 #5562] ERROR -- : Player NoCo is unreachable
+I, [2014-04-05T12:48:16.903322 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Clubs
+I, [2014-04-05T12:48:16.903838 #5562]  INFO -- : NoCo received hole_card 9 of Hearts
+I, [2014-04-05T12:48:16.904432 #5562]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:16.905044 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Clubs
+I, [2014-04-05T12:48:16.905585 #5562]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T12:48:16.906230 #5562]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T12:48:16.907179 #5562]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 1430 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:16.907975 #5562]  INFO -- : NoCo made a bet of 160 (raise) and is left with 510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.923439 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:16.924258 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.926566 #5562]  INFO -- : Player Mr Bazinga responded with 210 (200)
+I, [2014-04-05T12:48:16.926890 #5562]  INFO -- : Mr Bazinga made a bet of 210 (raise) and is left with 1220 chips. The pot now contains 450 chips.
+I, [2014-04-05T12:48:16.929776 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:16.930239 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 510 chips. The pot now contains 450 chips.
+I, [2014-04-05T12:48:16.931199 #5562]  INFO -- : Mr Bazinga won 450
+I, [2014-04-05T12:48:16.934317 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:16.937398 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:16.941064 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:16.941986 #5562]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T12:48:16.942577 #5562]  INFO -- : R3T received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:16.943208 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Spades
+I, [2014-04-05T12:48:16.943792 #5562]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T12:48:16.944222 #5562]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T12:48:16.944417 #5562]  INFO -- : Mr Bazinga received hole_card Jack of Clubs
+I, [2014-04-05T12:48:16.945105 #5562]  INFO -- : NoCo made a bet of 80 (raise) and is left with 430 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:16.945374 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 660 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.948323 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:16.948570 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1670 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.950430 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:16.950615 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.956222 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:16.956923 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 660 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.958027 #5562]  INFO -- : R3T won 240
+I, [2014-04-05T12:48:16.961616 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:16.964849 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:16.967169 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:16.967917 #5562]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T12:48:16.968364 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Clubs
+I, [2014-04-05T12:48:16.968638 #5562]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T12:48:16.968886 #5562]  INFO -- : R3T received hole_card 4 of Spades
+I, [2014-04-05T12:48:16.969104 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:16.969350 #5562]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:16.969902 #5562]  INFO -- : R3T made a bet of 80 (raise) and is left with 820 chips. The pot now contains 80 chips.
+I, [2014-04-05T12:48:16.970181 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.974033 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:16.974253 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.991296 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:16.991655 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.996549 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:16.997318 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1510 chips. The pot now contains 240 chips.
+I, [2014-04-05T12:48:16.998552 #5562]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T12:48:17.002516 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.007424 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.010893 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.011182 #5562]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T12:48:17.011350 #5562]  INFO -- : NoCo received hole_card 9 of Clubs
+I, [2014-04-05T12:48:17.011493 #5562]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T12:48:17.011661 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Clubs
+I, [2014-04-05T12:48:17.011828 #5562]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:17.011976 #5562]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T12:48:17.012290 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1590 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.012529 #5562]  INFO -- : NoCo made a bet of 320 (raise) and is left with 110 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.027439 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.028243 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.030256 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.030687 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1590 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.034245 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.035137 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 110 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.036286 #5562]  INFO -- : NoCo won 480
+I, [2014-04-05T12:48:17.040592 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.042935 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.044957 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.045242 #5562]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T12:48:17.045413 #5562]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T12:48:17.045567 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T12:48:17.045726 #5562]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T12:48:17.045907 #5562]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T12:48:17.046073 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Clubs
+I, [2014-04-05T12:48:17.046328 #5562]  INFO -- : NoCo made a bet of 160 (raise) and is left with 430 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.046566 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 500 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.048493 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.048884 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1590 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.051559 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.051777 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.067380 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.068014 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 500 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.068555 #5562]  INFO -- : R3T won 480
+I, [2014-04-05T12:48:17.071585 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.073733 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.075464 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.075802 #5562]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:17.076011 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Clubs
+I, [2014-04-05T12:48:17.076209 #5562]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T12:48:17.076472 #5562]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:17.076809 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.077684 #5562]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T12:48:17.079344 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 820 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.079863 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1270 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.082459 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.082727 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.093480 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.093733 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.096755 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.097029 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1270 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.097435 #5562]  INFO -- : Mr Bazinga won 480
+I, [2014-04-05T12:48:17.099748 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.102964 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.104695 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.105046 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:17.105227 #5562]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T12:48:17.105409 #5562]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T12:48:17.105592 #5562]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T12:48:17.105765 #5562]  INFO -- : NoCo received hole_card 9 of Spades
+I, [2014-04-05T12:48:17.105957 #5562]  INFO -- : R3T received hole_card 9 of Diamonds
+I, [2014-04-05T12:48:17.106247 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1590 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.106503 #5562]  INFO -- : NoCo made a bet of 320 (raise) and is left with 110 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.113833 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.114115 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 820 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.116689 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.116963 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1590 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.119499 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.119747 #5562]  INFO -- : NoCo made a bet of 0 (check) and is left with 110 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.120147 #5562]  INFO -- : NoCo won 480
+I, [2014-04-05T12:48:17.122315 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.124586 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.127270 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.127649 #5562]  INFO -- : NoCo received hole_card 6 of Hearts
+I, [2014-04-05T12:48:17.127878 #5562]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T12:48:17.128186 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T12:48:17.128433 #5562]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T12:48:17.128628 #5562]  INFO -- : R3T received hole_card 7 of Diamonds
+I, [2014-04-05T12:48:17.128826 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:17.129148 #5562]  INFO -- : NoCo made a bet of 160 (raise) and is left with 430 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.129411 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 500 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.131254 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.131544 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1590 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.134315 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.134634 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.141208 #5562]  INFO -- : Player R3T responded with 920 (200)
+I, [2014-04-05T12:48:17.141707 #5562]  INFO -- : R3T made a bet of 500 (allin) and is left with 0 chips. The pot now contains 980 chips.
+I, [2014-04-05T12:48:17.142441 #5562]  INFO -- : R3T won 980
+I, [2014-04-05T12:48:17.146169 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.148843 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.155686 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.156356 #5562]  INFO -- : R3T received hole_card 6 of Diamonds
+I, [2014-04-05T12:48:17.156766 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Diamonds
+I, [2014-04-05T12:48:17.157212 #5562]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:17.157612 #5562]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T12:48:17.158038 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T12:48:17.158475 #5562]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T12:48:17.159094 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 820 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.159649 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1270 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.163237 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.163671 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 430 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.172517 #5562]  INFO -- : Player R3T responded with 920 (200)
+I, [2014-04-05T12:48:17.172903 #5562]  INFO -- : R3T made a bet of 820 (allin) and is left with 0 chips. The pot now contains 1300 chips.
+I, [2014-04-05T12:48:17.175080 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.175440 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1270 chips. The pot now contains 1300 chips.
+I, [2014-04-05T12:48:17.176148 #5562]  INFO -- : R3T won 1300
+I, [2014-04-05T12:48:17.179763 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.185697 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.188687 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.189169 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Spades
+I, [2014-04-05T12:48:17.189458 #5562]  INFO -- : NoCo received hole_card 9 of Clubs
+I, [2014-04-05T12:48:17.189743 #5562]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T12:48:17.190037 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.190308 #5562]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T12:48:17.190582 #5562]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T12:48:17.191088 #5562]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 1110 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.191494 #5562]  INFO -- : NoCo made a bet of 320 (raise) and is left with 110 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.212521 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.213420 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1300 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.220950 #5562]  INFO -- : Player Mr Bazinga responded with 370 (200)
+I, [2014-04-05T12:48:17.221391 #5562]  INFO -- : Mr Bazinga made a bet of 370 (raise) and is left with 740 chips. The pot now contains 850 chips.
+I, [2014-04-05T12:48:17.226130 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.226571 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 110 chips. The pot now contains 850 chips.
+I, [2014-04-05T12:48:17.227275 #5562]  INFO -- : Mr Bazinga won 850
+I, [2014-04-05T12:48:17.230915 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.239773 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.244890 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.246415 #5562]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T12:48:17.247346 #5562]  INFO -- : R3T received hole_card 5 of Clubs
+I, [2014-04-05T12:48:17.247616 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Hearts
+I, [2014-04-05T12:48:17.247768 #5562]  INFO -- : NoCo received hole_card King of Diamonds
+I, [2014-04-05T12:48:17.247925 #5562]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T12:48:17.252480 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Spades
+I, [2014-04-05T12:48:17.253115 #5562]  INFO -- : NoCo made a bet of 110 (allin) and is left with 0 chips. The pot now contains 110 chips.
+I, [2014-04-05T12:48:17.254019 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 980 chips. The pot now contains 430 chips.
+I, [2014-04-05T12:48:17.257970 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.258275 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1590 chips. The pot now contains 430 chips.
+I, [2014-04-05T12:48:17.266203 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.266450 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 430 chips.
+I, [2014-04-05T12:48:17.266701 #5562]  INFO -- : community card 7 of Spades
+I, [2014-04-05T12:48:17.266892 #5562]  INFO -- : community card 7 of Clubs
+I, [2014-04-05T12:48:17.267086 #5562]  INFO -- : community card Jack of Diamonds
+I, [2014-04-05T12:48:17.267281 #5562]  INFO -- : community card 4 of Hearts
+I, [2014-04-05T12:48:17.267453 #5562]  INFO -- : community card Queen of Clubs
+I, [2014-04-05T12:48:17.267920 #5562]  INFO -- : R3T showed 6 of Spades,7 of Spades,7 of Clubs,Jack of Diamonds,Queen of Clubs making a pair
+I, [2014-04-05T12:48:17.268393 #5562]  INFO -- : NoCo showed 7 of Spades,7 of Clubs,Jack of Diamonds,Queen of Clubs,King of Diamonds making a pair
+I, [2014-04-05T12:48:17.268626 #5562]  INFO -- : NoCo won 220
+I, [2014-04-05T12:48:17.268980 #5562]  INFO -- : R3T won 210
+I, [2014-04-05T12:48:17.272243 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.274973 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.276736 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.277058 #5562]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T12:48:17.277243 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:17.277421 #5562]  INFO -- : NoCo received hole_card 9 of Spades
+I, [2014-04-05T12:48:17.277608 #5562]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:17.277784 #5562]  INFO -- : Mr Bazinga received hole_card 10 of Diamonds
+I, [2014-04-05T12:48:17.277956 #5562]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T12:48:17.278228 #5562]  INFO -- : R3T made a bet of 160 (raise) and is left with 1030 chips. The pot now contains 160 chips.
+I, [2014-04-05T12:48:17.278489 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1270 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.280121 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.280337 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 220 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.288988 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.289338 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1030 chips. The pot now contains 480 chips.
+I, [2014-04-05T12:48:17.292570 #5562]  INFO -- : Player Mr Bazinga responded with 210 (200)
+I, [2014-04-05T12:48:17.292908 #5562]  INFO -- : Mr Bazinga made a bet of 210 (raise) and is left with 1060 chips. The pot now contains 690 chips.
+I, [2014-04-05T12:48:17.293286 #5562]  INFO -- : Mr Bazinga won 690
+I, [2014-04-05T12:48:17.296677 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.299510 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.301196 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.301530 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T12:48:17.301721 #5562]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T12:48:17.301893 #5562]  INFO -- : R3T received hole_card 4 of Clubs
+I, [2014-04-05T12:48:17.302065 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Spades
+I, [2014-04-05T12:48:17.302234 #5562]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T12:48:17.302394 #5562]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T12:48:17.302687 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1430 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.303017 #5562]  INFO -- : NoCo made a bet of 220 (allin) and is left with 0 chips. The pot now contains 540 chips.
+I, [2014-04-05T12:48:17.311677 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.311922 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1030 chips. The pot now contains 540 chips.
+I, [2014-04-05T12:48:17.313698 #5562]  INFO -- : Player Mr Bazinga responded with 370 (200)
+I, [2014-04-05T12:48:17.313948 #5562]  INFO -- : Mr Bazinga made a bet of 370 (raise) and is left with 1060 chips. The pot now contains 910 chips.
+I, [2014-04-05T12:48:17.314182 #5562]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T12:48:17.314395 #5562]  INFO -- : community card 7 of Spades
+I, [2014-04-05T12:48:17.314593 #5562]  INFO -- : community card 2 of Spades
+I, [2014-04-05T12:48:17.314796 #5562]  INFO -- : community card 2 of Hearts
+I, [2014-04-05T12:48:17.314988 #5562]  INFO -- : community card 5 of Diamonds
+I, [2014-04-05T12:48:17.315455 #5562]  INFO -- : Mr Bazinga showed 2 of Hearts,2 of Spades,8 of Hearts,9 of Spades,Ace of Spades making a pair
+I, [2014-04-05T12:48:17.315921 #5562]  INFO -- : NoCo showed 2 of Hearts,2 of Spades,7 of Clubs,7 of Spades,Jack of Hearts making a two pairs
+I, [2014-04-05T12:48:17.316192 #5562]  INFO -- : NoCo won 440
+I, [2014-04-05T12:48:17.316583 #5562]  INFO -- : Mr Bazinga won 470
+I, [2014-04-05T12:48:17.319047 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.320912 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.324009 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.324413 #5562]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T12:48:17.324616 #5562]  INFO -- : R3T received hole_card 4 of Hearts
+I, [2014-04-05T12:48:17.324773 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.324947 #5562]  INFO -- : NoCo received hole_card 7 of Spades
+I, [2014-04-05T12:48:17.325127 #5562]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T12:48:17.325308 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T12:48:17.326537 #5562]  INFO -- : NoCo made a bet of 320 (raise) and is left with 120 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.326880 #5562]  INFO -- : R3T made a bet of 640 (raise) and is left with 390 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.328686 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.328948 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1530 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.330545 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.330790 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 120 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.337497 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.337789 #5562]  INFO -- : R3T made a bet of 0 (check) and is left with 390 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.338172 #5562]  INFO -- : R3T won 960
+I, [2014-04-05T12:48:17.342161 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.344169 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.345882 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.346733 #5562]  INFO -- : R3T received hole_card Jack of Diamonds
+I, [2014-04-05T12:48:17.347128 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T12:48:17.347309 #5562]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T12:48:17.347497 #5562]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T12:48:17.347677 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T12:48:17.347834 #5562]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T12:48:17.348162 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 1030 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.348416 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 890 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.350025 #5562]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T12:48:17.350254 #5562]  INFO -- : NoCo made a bet of 0 (fold) and is left with 120 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.356981 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.357754 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1030 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.359570 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.359814 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 890 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.360224 #5562]  INFO -- : Mr Bazinga won 960
+I, [2014-04-05T12:48:17.362404 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.364796 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.367169 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.367674 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T12:48:17.367889 #5562]  INFO -- : NoCo received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:17.368098 #5562]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T12:48:17.368308 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Hearts
+I, [2014-04-05T12:48:17.368518 #5562]  INFO -- : NoCo received hole_card King of Diamonds
+I, [2014-04-05T12:48:17.368704 #5562]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T12:48:17.369014 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1530 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.369270 #5562]  INFO -- : NoCo made a bet of 120 (allin) and is left with 0 chips. The pot now contains 440 chips.
+I, [2014-04-05T12:48:17.378074 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.378380 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 1030 chips. The pot now contains 440 chips.
+I, [2014-04-05T12:48:17.381875 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.382140 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1530 chips. The pot now contains 440 chips.
+I, [2014-04-05T12:48:17.382363 #5562]  INFO -- : community card 2 of Spades
+I, [2014-04-05T12:48:17.382549 #5562]  INFO -- : community card Queen of Hearts
+I, [2014-04-05T12:48:17.382731 #5562]  INFO -- : community card Queen of Clubs
+I, [2014-04-05T12:48:17.382942 #5562]  INFO -- : community card 2 of Diamonds
+I, [2014-04-05T12:48:17.383144 #5562]  INFO -- : community card 5 of Spades
+I, [2014-04-05T12:48:17.383539 #5562]  INFO -- : Mr Bazinga showed 2 of Spades,2 of Diamonds,2 of Clubs,Queen of Hearts,Queen of Clubs making a full house
+I, [2014-04-05T12:48:17.383933 #5562]  INFO -- : Mr Bazinga won 440
+I, [2014-04-05T12:48:17.386419 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.390451 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.392319 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.392658 #5562]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T12:48:17.392840 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Hearts
+I, [2014-04-05T12:48:17.393018 #5562]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:17.393210 #5562]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T12:48:17.393558 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 710 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.393966 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 1330 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.403440 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.403762 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 710 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.405737 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.406055 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1330 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.407214 #5562]  INFO -- : Mr Bazinga won 960
+I, [2014-04-05T12:48:17.409987 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.411597 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.413324 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.413641 #5562]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T12:48:17.413829 #5562]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T12:48:17.414017 #5562]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T12:48:17.414178 #5562]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T12:48:17.414513 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1970 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.414771 #5562]  INFO -- : R3T made a bet of 640 (raise) and is left with 70 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.416467 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.416728 #5562]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 1970 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.417081 #5562]  INFO -- : R3T won 960
+I, [2014-04-05T12:48:17.419255 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.420868 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.423535 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.423941 #5562]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T12:48:17.424171 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T12:48:17.424591 #5562]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T12:48:17.425391 #5562]  INFO -- : Mr Bazinga received hole_card 8 of Spades
+I, [2014-04-05T12:48:17.425907 #5562]  INFO -- : R3T made a bet of 320 (raise) and is left with 710 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.426347 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 1330 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.435992 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.436305 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 710 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.438274 #5562]  INFO -- : Player Mr Bazinga responded with 370 (200)
+I, [2014-04-05T12:48:17.439577 #5562]  INFO -- : Mr Bazinga made a bet of 370 (raise) and is left with 960 chips. The pot now contains 1330 chips.
+I, [2014-04-05T12:48:17.440445 #5562]  INFO -- : Mr Bazinga won 1330
+I, [2014-04-05T12:48:17.444053 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.446724 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.449139 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.449466 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Clubs
+I, [2014-04-05T12:48:17.449627 #5562]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T12:48:17.449797 #5562]  INFO -- : Mr Bazinga received hole_card 9 of Clubs
+I, [2014-04-05T12:48:17.449975 #5562]  INFO -- : R3T received hole_card 6 of Clubs
+I, [2014-04-05T12:48:17.450253 #5562]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 1970 chips. The pot now contains 320 chips.
+I, [2014-04-05T12:48:17.450495 #5562]  INFO -- : R3T made a bet of 640 (raise) and is left with 70 chips. The pot now contains 960 chips.
+I, [2014-04-05T12:48:17.453264 #5562]  INFO -- : Player Mr Bazinga responded with 690 (200)
+I, [2014-04-05T12:48:17.453624 #5562]  INFO -- : Mr Bazinga made a bet of 690 (raise) and is left with 1280 chips. The pot now contains 1650 chips.
+I, [2014-04-05T12:48:17.463776 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.464135 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 70 chips. The pot now contains 1650 chips.
+I, [2014-04-05T12:48:17.464857 #5562]  INFO -- : Mr Bazinga won 1650
+I, [2014-04-05T12:48:17.467989 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.469770 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.471424 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.472565 #5562]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T12:48:17.473324 #5562]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T12:48:17.473778 #5562]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T12:48:17.473995 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.474322 #5562]  INFO -- : R3T made a bet of 70 (allin) and is left with 0 chips. The pot now contains 70 chips.
+I, [2014-04-05T12:48:17.474614 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 2290 chips. The pot now contains 710 chips.
+I, [2014-04-05T12:48:17.476797 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.477106 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 2290 chips. The pot now contains 710 chips.
+I, [2014-04-05T12:48:17.477319 #5562]  INFO -- : community card 3 of Diamonds
+I, [2014-04-05T12:48:17.477509 #5562]  INFO -- : community card 8 of Spades
+I, [2014-04-05T12:48:17.477714 #5562]  INFO -- : community card 5 of Spades
+I, [2014-04-05T12:48:17.477946 #5562]  INFO -- : community card King of Diamonds
+I, [2014-04-05T12:48:17.478147 #5562]  INFO -- : community card 6 of Diamonds
+I, [2014-04-05T12:48:17.478597 #5562]  INFO -- : Mr Bazinga showed 2 of Hearts,3 of Diamonds,4 of Spades,5 of Spades,6 of Diamonds making a straight
+I, [2014-04-05T12:48:17.478984 #5562]  INFO -- : R3T showed 3 of Diamonds,6 of Diamonds,10 of Diamonds,Queen of Diamonds,King of Diamonds making a flush
+I, [2014-04-05T12:48:17.479182 #5562]  INFO -- : R3T won 140
+I, [2014-04-05T12:48:17.479523 #5562]  INFO -- : Mr Bazinga won 570
+I, [2014-04-05T12:48:17.481806 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.483246 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.484884 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.485183 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Hearts
+I, [2014-04-05T12:48:17.485374 #5562]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T12:48:17.485584 #5562]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T12:48:17.485749 #5562]  INFO -- : R3T received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.486068 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 2220 chips. The pot now contains 640 chips.
+I, [2014-04-05T12:48:17.486316 #5562]  INFO -- : R3T made a bet of 140 (allin) and is left with 0 chips. The pot now contains 780 chips.
+I, [2014-04-05T12:48:17.489331 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.490447 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 2220 chips. The pot now contains 780 chips.
+I, [2014-04-05T12:48:17.490744 #5562]  INFO -- : community card 6 of Clubs
+I, [2014-04-05T12:48:17.490972 #5562]  INFO -- : community card 3 of Clubs
+I, [2014-04-05T12:48:17.491198 #5562]  INFO -- : community card King of Clubs
+I, [2014-04-05T12:48:17.491433 #5562]  INFO -- : community card Queen of Diamonds
+I, [2014-04-05T12:48:17.491663 #5562]  INFO -- : community card 10 of Hearts
+I, [2014-04-05T12:48:17.492203 #5562]  INFO -- : Mr Bazinga showed 6 of Clubs,7 of Spades,10 of Hearts,Queen of Diamonds,King of Clubs making a high card
+I, [2014-04-05T12:48:17.492684 #5562]  INFO -- : R3T showed 6 of Clubs,8 of Diamonds,10 of Hearts,Queen of Diamonds,King of Clubs making a high card
+I, [2014-04-05T12:48:17.492923 #5562]  INFO -- : R3T won 280
+I, [2014-04-05T12:48:17.493316 #5562]  INFO -- : Mr Bazinga won 500
+I, [2014-04-05T12:48:17.495622 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.497227 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.498892 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.499217 #5562]  INFO -- : R3T received hole_card 6 of Clubs
+I, [2014-04-05T12:48:17.499456 #5562]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T12:48:17.499658 #5562]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T12:48:17.499850 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Hearts
+I, [2014-04-05T12:48:17.500184 #5562]  INFO -- : R3T made a bet of 280 (allin) and is left with 0 chips. The pot now contains 280 chips.
+I, [2014-04-05T12:48:17.500441 #5562]  INFO -- : Mr Bazinga made a bet of 1280 (raise) and is left with 1440 chips. The pot now contains 1560 chips.
+I, [2014-04-05T12:48:17.502185 #5562]  INFO -- : Player Mr Bazinga responded with 1050 (200)
+I, [2014-04-05T12:48:17.502456 #5562]  INFO -- : Mr Bazinga made a bet of 1050 (raise) and is left with 390 chips. The pot now contains 2610 chips.
+I, [2014-04-05T12:48:17.502710 #5562]  INFO -- : community card 4 of Diamonds
+I, [2014-04-05T12:48:17.502908 #5562]  INFO -- : community card 2 of Spades
+I, [2014-04-05T12:48:17.503142 #5562]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T12:48:17.503364 #5562]  INFO -- : community card 6 of Hearts
+I, [2014-04-05T12:48:17.503591 #5562]  INFO -- : community card Jack of Spades
+I, [2014-04-05T12:48:17.504221 #5562]  INFO -- : Mr Bazinga showed 5 of Hearts,6 of Hearts,8 of Hearts,Jack of Spades,Ace of Hearts making a high card
+I, [2014-04-05T12:48:17.505283 #5562]  INFO -- : R3T showed 6 of Hearts,6 of Clubs,8 of Clubs,8 of Hearts,Jack of Spades making a two pairs
+I, [2014-04-05T12:48:17.505959 #5562]  INFO -- : R3T won 560
+I, [2014-04-05T12:48:17.506362 #5562]  INFO -- : Mr Bazinga won 2050
+I, [2014-04-05T12:48:17.509203 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.510908 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.512642 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.512984 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Hearts
+I, [2014-04-05T12:48:17.513214 #5562]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T12:48:17.513416 #5562]  INFO -- : Mr Bazinga received hole_card King of Spades
+I, [2014-04-05T12:48:17.513581 #5562]  INFO -- : R3T received hole_card Jack of Spades
+I, [2014-04-05T12:48:17.513899 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 1800 chips. The pot now contains 640 chips.
+I, [2014-04-05T12:48:17.514181 #5562]  INFO -- : R3T made a bet of 560 (allin) and is left with 0 chips. The pot now contains 1200 chips.
+I, [2014-04-05T12:48:17.516736 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.517187 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 1800 chips. The pot now contains 1200 chips.
+I, [2014-04-05T12:48:17.517572 #5562]  INFO -- : community card 9 of Diamonds
+I, [2014-04-05T12:48:17.517898 #5562]  INFO -- : community card 2 of Spades
+I, [2014-04-05T12:48:17.518169 #5562]  INFO -- : community card 4 of Diamonds
+I, [2014-04-05T12:48:17.518423 #5562]  INFO -- : community card 10 of Diamonds
+I, [2014-04-05T12:48:17.518655 #5562]  INFO -- : community card 6 of Hearts
+I, [2014-04-05T12:48:17.519257 #5562]  INFO -- : Mr Bazinga showed 4 of Diamonds,4 of Hearts,9 of Diamonds,10 of Diamonds,King of Spades making a pair
+I, [2014-04-05T12:48:17.519773 #5562]  INFO -- : R3T showed 6 of Hearts,9 of Diamonds,10 of Diamonds,Jack of Spades,Jack of Clubs making a pair
+I, [2014-04-05T12:48:17.520121 #5562]  INFO -- : R3T won 1120
+I, [2014-04-05T12:48:17.520717 #5562]  INFO -- : Mr Bazinga won 80
+I, [2014-04-05T12:48:17.524917 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.526607 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.528526 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.528868 #5562]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T12:48:17.529071 #5562]  INFO -- : Mr Bazinga received hole_card 5 of Hearts
+I, [2014-04-05T12:48:17.529271 #5562]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T12:48:17.529463 #5562]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T12:48:17.529758 #5562]  INFO -- : R3T made a bet of 640 (raise) and is left with 480 chips. The pot now contains 640 chips.
+I, [2014-04-05T12:48:17.530018 #5562]  INFO -- : Mr Bazinga made a bet of 1280 (raise) and is left with 600 chips. The pot now contains 1920 chips.
+I, [2014-04-05T12:48:17.537868 #5562]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T12:48:17.538249 #5562]  INFO -- : R3T made a bet of 0 (fold) and is left with 480 chips. The pot now contains 1920 chips.
+I, [2014-04-05T12:48:17.541152 #5562]  INFO -- : Player Mr Bazinga responded with 0 (200)
+I, [2014-04-05T12:48:17.541416 #5562]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 600 chips. The pot now contains 1920 chips.
+I, [2014-04-05T12:48:17.541997 #5562]  INFO -- : Mr Bazinga won 1920
+I, [2014-04-05T12:48:17.545008 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.547312 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.549435 #5562]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T12:48:17.549940 #5562]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T12:48:17.550140 #5562]  INFO -- : R3T received hole_card 3 of Clubs
+I, [2014-04-05T12:48:17.550334 #5562]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T12:48:17.550542 #5562]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T12:48:17.550842 #5562]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 1880 chips. The pot now contains 640 chips.
+I, [2014-04-05T12:48:17.551105 #5562]  INFO -- : R3T made a bet of 480 (allin) and is left with 0 chips. The pot now contains 1120 chips.
+I, [2014-04-05T12:48:17.552687 #5562]  INFO -- : Player Mr Bazinga responded with 840 (200)
+I, [2014-04-05T12:48:17.552947 #5562]  INFO -- : Mr Bazinga made a bet of 840 (raise) and is left with 1040 chips. The pot now contains 1960 chips.
+I, [2014-04-05T12:48:17.553216 #5562]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T12:48:17.553459 #5562]  INFO -- : community card 7 of Diamonds
+I, [2014-04-05T12:48:17.553728 #5562]  INFO -- : community card 3 of Spades
+I, [2014-04-05T12:48:17.554032 #5562]  INFO -- : community card 10 of Diamonds
+I, [2014-04-05T12:48:17.554323 #5562]  INFO -- : community card 2 of Diamonds
+I, [2014-04-05T12:48:17.555148 #5562]  INFO -- : Mr Bazinga showed 7 of Diamonds,8 of Hearts,10 of Diamonds,King of Clubs,King of Hearts making a pair
+I, [2014-04-05T12:48:17.556579 #5562]  INFO -- : Mr Bazinga won 1960
+I, [2014-04-05T12:48:17.559778 #5562]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T12:48:17.561369 #5562]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T12:48:17.563041 #5562]  INFO -- : Player NoCo responded with  (200)

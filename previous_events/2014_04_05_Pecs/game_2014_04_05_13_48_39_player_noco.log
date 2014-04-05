@@ -1,0 +1,26 @@
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51617 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51620 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51623 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51625 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51628 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51631 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51633 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51637 [200]: /player_service.php
+[Sat Apr  5 13:48:58 2014] PHP Notice:  Undefined variable: result in /home/devill/git/poker-player-noco/player.php on line 122
+[Sat Apr  5 13:48:58 2014] PHP Stack trace:
+[Sat Apr  5 13:48:58 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 13:48:58 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 13:48:58 2014] PHP   3. Player->rank_pre_flop() /home/devill/git/poker-player-noco/player.php:15
+[Sat Apr  5 13:48:58 2014] PHP   4. Player->parse_card() /home/devill/git/poker-player-noco/player.php:93
+[Sat Apr  5 13:48:58 2014] 127.0.0.1:51638 [200]: /player_service.php
+[Sat Apr  5 13:48:59 2014] 127.0.0.1:51645 [200]: /player_service.php
+[Sat Apr  5 13:48:59 2014] PHP Notice:  Undefined variable: result in /home/devill/git/poker-player-noco/player.php on line 122
+[Sat Apr  5 13:48:59 2014] PHP Stack trace:
+[Sat Apr  5 13:48:59 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 13:48:59 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 13:48:59 2014] PHP   3. Player->rank_pre_flop() /home/devill/git/poker-player-noco/player.php:15
+[Sat Apr  5 13:48:59 2014] PHP   4. Player->parse_card() /home/devill/git/poker-player-noco/player.php:93
+[Sat Apr  5 13:48:59 2014] 127.0.0.1:51646 [200]: /player_service.php
+[Sat Apr  5 13:48:59 2014] 127.0.0.1:51650 [200]: /player_service.php
+[Sat Apr  5 13:48:59 2014] 127.0.0.1:51652 [200]: /player_service.php
+[Sat Apr  5 13:48:59 2014] 127.0.0.1:51655 [200]: /player_service.php

@@ -1,0 +1,55 @@
+[Sat Apr  5 11:40:13 2014] 127.0.0.1:45742 [200]: /player_service.php
+[Sat Apr  5 11:40:13 2014] 127.0.0.1:45745 [200]: /player_service.php
+[Sat Apr  5 11:40:13 2014] 127.0.0.1:45747 [200]: /player_service.php
+[Sat Apr  5 11:40:13 2014] PHP Notice:  Array to string conversion in /home/devill/git/poker-player-noco/player.php on line 46
+[Sat Apr  5 11:40:13 2014] PHP Stack trace:
+[Sat Apr  5 11:40:13 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 11:40:13 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 11:40:13 2014] PHP   3. Player->get_rankings() /home/devill/git/poker-player-noco/player.php:14
+[Sat Apr  5 11:40:13 2014] PHP   4. curl_setopt() /home/devill/git/poker-player-noco/player.php:46
+Operation timed out after 1002 milliseconds with 0 bytes received - [Sat Apr  5 11:40:14 2014] 127.0.0.1:45749 [200]: /player_service.php
+[Sat Apr  5 11:40:14 2014] PHP Notice:  Array to string conversion in /home/devill/git/poker-player-noco/player.php on line 46
+[Sat Apr  5 11:40:14 2014] PHP Stack trace:
+[Sat Apr  5 11:40:14 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 11:40:14 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 11:40:14 2014] PHP   3. Player->get_rankings() /home/devill/git/poker-player-noco/player.php:14
+[Sat Apr  5 11:40:14 2014] PHP   4. curl_setopt() /home/devill/git/poker-player-noco/player.php:46
+Operation timed out after 1000 milliseconds with 0 bytes received - [Sat Apr  5 11:40:15 2014] 127.0.0.1:45752 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] 127.0.0.1:45756 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] 127.0.0.1:45757 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] 127.0.0.1:45760 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] 127.0.0.1:45763 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] 127.0.0.1:45766 [200]: /player_service.php
+[Sat Apr  5 11:40:15 2014] PHP Notice:  Array to string conversion in /home/devill/git/poker-player-noco/player.php on line 46
+[Sat Apr  5 11:40:15 2014] PHP Stack trace:
+[Sat Apr  5 11:40:15 2014] PHP   1. {main}() /home/devill/git/poker-player-noco/player_service.php:0
+[Sat Apr  5 11:40:15 2014] PHP   2. Player->betRequest() /home/devill/git/poker-player-noco/player_service.php:10
+[Sat Apr  5 11:40:15 2014] PHP   3. Player->get_rankings() /home/devill/git/poker-player-noco/player.php:14
+[Sat Apr  5 11:40:15 2014] PHP   4. curl_setopt() /home/devill/git/poker-player-noco/player.php:46
+Operation timed out after 1001 milliseconds with 0 bytes received - [Sat Apr  5 11:40:16 2014] 127.0.0.1:45769 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45773 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45778 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45783 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45788 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45793 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45798 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45803 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45808 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45813 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45818 [200]: /player_service.php
+[Sat Apr  5 11:40:16 2014] 127.0.0.1:45823 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45828 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45833 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45838 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45843 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45848 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45853 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45858 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45863 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45868 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45873 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45878 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45883 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45888 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45893 [200]: /player_service.php
+[Sat Apr  5 11:40:17 2014] 127.0.0.1:45897 [200]: /player_service.php

@@ -1,0 +1,1671 @@
+# Logfile created on 2014-04-05 10:38:16 +0200 by logger.rb/44203
+I, [2014-04-05T10:38:16.602069 #28629]  INFO -- : Reseting R3T to origin/master
+I, [2014-04-05T10:38:17.440435 #28629]  INFO -- : Reseting Mr Bazinga to origin/master
+I, [2014-04-05T10:38:19.112521 #28629]  INFO -- : Reseting NoCo to origin/master
+I, [2014-04-05T10:38:19.971322 #28629]  INFO -- : Connected R3T at http://localhost:8080/
+I, [2014-04-05T10:38:19.973523 #28629]  INFO -- : Connected Mr Bazinga at http://localhost:1337/
+I, [2014-04-05T10:38:19.977454 #28629]  INFO -- : Connected NoCo at http://localhost:8000/player_service.php
+E, [2014-04-05T10:38:19.979233 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:19.979403 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:19.979516 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:20.980189 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:20.980324 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:20.980417 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:21.981078 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:21.981408 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:21.982925 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:22.983801 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:22.983994 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:22.984109 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:23.986114 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:23.986904 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:23.987044 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:24.987691 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:24.987837 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:24.987926 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:25.988536 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:25.988683 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:25.988764 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:26.989398 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:26.989730 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:26.990239 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:27.991031 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:27.991177 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:27.991259 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:28.991854 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:28.992053 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:28.992134 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:29.992716 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:29.992864 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:29.992997 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:30.993570 #28629] ERROR -- : Connection refused - connect(2) for "localhost" port 8080
+E, [2014-04-05T10:38:30.993713 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:30.993806 #28629]  INFO -- : Waiting for players to start
+E, [2014-04-05T10:38:32.496316 #28629] ERROR -- : Net::ReadTimeout
+E, [2014-04-05T10:38:32.496468 #28629] ERROR -- : Player R3T is unreachable
+I, [2014-04-05T10:38:32.496561 #28629]  INFO -- : Waiting for players to start
+I, [2014-04-05T10:38:33.500772 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.522792 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.524473 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.524565 #28629]  INFO -- : Players are running
+I, [2014-04-05T10:38:33.539671 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.545918 #28629]  INFO -- : Player Mr Bazinga responded with Mr Bazinga version 0.1 (200)
+I, [2014-04-05T10:38:33.549114 #28629]  INFO -- : Player NoCo responded with NoCo1037 (200)
+I, [2014-04-05T10:38:33.549455 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Diamonds
+I, [2014-04-05T10:38:33.549628 #28629]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T10:38:33.550247 #28629]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T10:38:33.550722 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Hearts
+I, [2014-04-05T10:38:33.550976 #28629]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T10:38:33.551244 #28629]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T10:38:33.554010 #28629]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.554646 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.615985 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.617018 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.634292 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.634852 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.640133 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.640896 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.642224 #28629]  INFO -- : NoCo won 30
+I, [2014-04-05T10:38:33.649282 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.655102 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.658103 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.658819 #28629]  INFO -- : NoCo received hole_card Jack of Spades
+I, [2014-04-05T10:38:33.659531 #28629]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T10:38:33.660391 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Clubs
+I, [2014-04-05T10:38:33.661075 #28629]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T10:38:33.661501 #28629]  INFO -- : R3T received hole_card 7 of Diamonds
+I, [2014-04-05T10:38:33.661922 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T10:38:33.663093 #28629]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.664009 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.668452 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.669121 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.673518 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.674151 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.686277 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.686797 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.687390 #28629]  INFO -- : R3T won 30
+I, [2014-04-05T10:38:33.693878 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.697170 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.698593 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.698907 #28629]  INFO -- : R3T received hole_card 6 of Diamonds
+I, [2014-04-05T10:38:33.699091 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:33.699282 #28629]  INFO -- : NoCo received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:33.699486 #28629]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T10:38:33.699682 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:33.699883 #28629]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T10:38:33.700209 #28629]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.700500 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.701972 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.702194 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.706866 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.707120 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.713252 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.713935 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.714817 #28629]  INFO -- : Mr Bazinga won 30
+I, [2014-04-05T10:38:33.719535 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.722251 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.725439 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.726188 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Spades
+I, [2014-04-05T10:38:33.726649 #28629]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T10:38:33.727057 #28629]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T10:38:33.727548 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:33.728146 #28629]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T10:38:33.728789 #28629]  INFO -- : R3T received hole_card King of Hearts
+I, [2014-04-05T10:38:33.729759 #28629]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.730547 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.741302 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.741978 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.745527 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.746083 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.749118 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.749960 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.752155 #28629]  INFO -- : NoCo won 30
+I, [2014-04-05T10:38:33.755878 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.757775 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.759425 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.759760 #28629]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:33.759936 #28629]  INFO -- : R3T received hole_card 5 of Spades
+I, [2014-04-05T10:38:33.760191 #28629]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T10:38:33.760370 #28629]  INFO -- : NoCo received hole_card Jack of Clubs
+I, [2014-04-05T10:38:33.760542 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:33.760710 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Clubs
+I, [2014-04-05T10:38:33.760992 #28629]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.761250 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.763383 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.763646 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.766173 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.766390 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.772679 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.773120 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.773885 #28629]  INFO -- : R3T won 30
+I, [2014-04-05T10:38:33.778753 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.783526 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.785326 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.785749 #28629]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T10:38:33.786031 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Clubs
+I, [2014-04-05T10:38:33.786301 #28629]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T10:38:33.786596 #28629]  INFO -- : R3T received hole_card 4 of Hearts
+I, [2014-04-05T10:38:33.786856 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Hearts
+I, [2014-04-05T10:38:33.787136 #28629]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:33.787588 #28629]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.788014 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.791448 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.791872 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.797039 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.797499 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.800823 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.801256 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.802189 #28629]  INFO -- : Mr Bazinga won 30
+I, [2014-04-05T10:38:33.805757 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.808555 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.811993 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.812910 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T10:38:33.813593 #28629]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T10:38:33.814230 #28629]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T10:38:33.814933 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Spades
+I, [2014-04-05T10:38:33.815469 #28629]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T10:38:33.816194 #28629]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T10:38:33.816504 #28629]  INFO -- : Mr Bazinga made a bet of 10 (raise) and is left with 990 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.816749 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.820161 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.820690 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.824634 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.824928 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.827159 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.827618 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.828856 #28629]  INFO -- : NoCo won 30
+I, [2014-04-05T10:38:33.835373 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.838252 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.841747 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.842999 #28629]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T10:38:33.843563 #28629]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T10:38:33.844115 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T10:38:33.844855 #28629]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T10:38:33.845382 #28629]  INFO -- : R3T received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:33.846033 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T10:38:33.847057 #28629]  INFO -- : NoCo made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.847844 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 980 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.855406 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.855705 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 990 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.858421 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.859149 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.869885 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.870509 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 980 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.871055 #28629]  INFO -- : R3T won 30
+I, [2014-04-05T10:38:33.876320 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.877795 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.879164 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.879468 #28629]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T10:38:33.879671 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T10:38:33.879862 #28629]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T10:38:33.880116 #28629]  INFO -- : R3T received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:33.880304 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Spades
+I, [2014-04-05T10:38:33.880496 #28629]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:33.880787 #28629]  INFO -- : R3T made a bet of 10 (raise) and is left with 1000 chips. The pot now contains 10 chips.
+I, [2014-04-05T10:38:33.881027 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.882645 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.883391 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.894110 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.894666 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 30 chips.
+E, [2014-04-05T10:38:33.901166 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.901633 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 970 chips. The pot now contains 30 chips.
+I, [2014-04-05T10:38:33.902734 #28629]  INFO -- : Mr Bazinga won 30
+I, [2014-04-05T10:38:33.909907 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.913815 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.918114 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.919056 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Diamonds
+I, [2014-04-05T10:38:33.919714 #28629]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T10:38:33.920474 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:33.921147 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:33.921836 #28629]  INFO -- : NoCo received hole_card Jack of Spades
+I, [2014-04-05T10:38:33.922501 #28629]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T10:38:33.923502 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 980 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:33.924279 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.931254 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.931525 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:33.937196 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.937671 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.942450 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.943209 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.948610 #28629]  INFO -- : NoCo won 60
+I, [2014-04-05T10:38:33.960181 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:33.963409 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:33.966625 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:33.967280 #28629]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T10:38:33.967448 #28629]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T10:38:33.967584 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:33.967737 #28629]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T10:38:33.967882 #28629]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T10:38:33.968088 #28629]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T10:38:33.968986 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:33.969824 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:33.976742 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:33.977582 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.981798 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:33.982266 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.992920 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:33.993277 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:33.994061 #28629]  INFO -- : R3T won 60
+I, [2014-04-05T10:38:34.000348 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.002928 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.005142 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.005637 #28629]  INFO -- : R3T received hole_card King of Spades
+I, [2014-04-05T10:38:34.005928 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T10:38:34.006226 #28629]  INFO -- : NoCo received hole_card Queen of Spades
+I, [2014-04-05T10:38:34.006527 #28629]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T10:38:34.006807 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T10:38:34.007106 #28629]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T10:38:34.007588 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.008014 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.010550 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.010981 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.015965 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.016371 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.020815 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.021463 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.022266 #28629]  INFO -- : Mr Bazinga won 60
+I, [2014-04-05T10:38:34.026507 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.028825 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.030562 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.030854 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T10:38:34.031035 #28629]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T10:38:34.031210 #28629]  INFO -- : R3T received hole_card 7 of Diamonds
+I, [2014-04-05T10:38:34.031365 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T10:38:34.031528 #28629]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T10:38:34.031704 #28629]  INFO -- : R3T received hole_card 8 of Clubs
+I, [2014-04-05T10:38:34.031973 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 980 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.032362 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.039374 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.039648 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.044349 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.044932 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.049132 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.049329 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.049671 #28629]  INFO -- : NoCo won 60
+I, [2014-04-05T10:38:34.053284 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.056476 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.057937 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.058197 #28629]  INFO -- : NoCo received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:34.058365 #28629]  INFO -- : R3T received hole_card King of Hearts
+I, [2014-04-05T10:38:34.058517 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T10:38:34.058671 #28629]  INFO -- : NoCo received hole_card Ace of Spades
+I, [2014-04-05T10:38:34.058829 #28629]  INFO -- : R3T received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.058971 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:34.059249 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.059476 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.062884 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.063175 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.065025 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.065215 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.070932 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.071423 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.072316 #28629]  INFO -- : R3T won 60
+I, [2014-04-05T10:38:34.076186 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.079282 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.082202 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.082832 #28629]  INFO -- : R3T received hole_card 10 of Hearts
+I, [2014-04-05T10:38:34.083332 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Clubs
+I, [2014-04-05T10:38:34.083575 #28629]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T10:38:34.083786 #28629]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T10:38:34.083985 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:34.084228 #28629]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T10:38:34.084559 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.084858 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.087412 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.087751 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.094462 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.095067 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.099159 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.099374 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.099722 #28629]  INFO -- : Mr Bazinga won 60
+I, [2014-04-05T10:38:34.101777 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.104965 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.107672 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.107996 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:34.108205 #28629]  INFO -- : NoCo received hole_card Jack of Spades
+I, [2014-04-05T10:38:34.108405 #28629]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T10:38:34.108601 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T10:38:34.108790 #28629]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T10:38:34.108979 #28629]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T10:38:34.109296 #28629]  INFO -- : Mr Bazinga made a bet of 20 (raise) and is left with 980 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.109556 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.114006 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.114379 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.119659 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.122236 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.125338 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.125844 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.127110 #28629]  INFO -- : NoCo won 60
+I, [2014-04-05T10:38:34.131727 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.133667 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.135335 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.136379 #28629]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.137046 #28629]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T10:38:34.137636 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Spades
+I, [2014-04-05T10:38:34.138208 #28629]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T10:38:34.138721 #28629]  INFO -- : R3T received hole_card King of Hearts
+I, [2014-04-05T10:38:34.139453 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Hearts
+I, [2014-04-05T10:38:34.139968 #28629]  INFO -- : NoCo made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.140241 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 960 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.145791 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.147740 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 980 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.151385 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.151999 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.159623 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.159893 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 960 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.160381 #28629]  INFO -- : R3T won 60
+I, [2014-04-05T10:38:34.164762 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.166551 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.168394 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.169355 #28629]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T10:38:34.169885 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Diamonds
+I, [2014-04-05T10:38:34.170321 #28629]  INFO -- : NoCo received hole_card 7 of Spades
+I, [2014-04-05T10:38:34.170488 #28629]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.170664 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:34.170819 #28629]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T10:38:34.171090 #28629]  INFO -- : R3T made a bet of 20 (raise) and is left with 1000 chips. The pot now contains 20 chips.
+I, [2014-04-05T10:38:34.171358 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.173720 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.174088 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.180494 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.180977 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 60 chips.
+E, [2014-04-05T10:38:34.184295 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.184760 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 940 chips. The pot now contains 60 chips.
+I, [2014-04-05T10:38:34.185410 #28629]  INFO -- : Mr Bazinga won 60
+I, [2014-04-05T10:38:34.188573 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.192665 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.195778 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.196816 #28629]  INFO -- : Mr Bazinga received hole_card King of Spades
+I, [2014-04-05T10:38:34.197446 #28629]  INFO -- : NoCo received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.198007 #28629]  INFO -- : R3T received hole_card 10 of Diamonds
+I, [2014-04-05T10:38:34.198658 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.199269 #28629]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:34.199874 #28629]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T10:38:34.200884 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 960 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.201771 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.210252 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.210862 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.215891 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.216190 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.218786 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.219373 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.220522 #28629]  INFO -- : NoCo won 120
+I, [2014-04-05T10:38:34.223352 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.225065 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.226599 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.226919 #28629]  INFO -- : NoCo received hole_card 6 of Hearts
+I, [2014-04-05T10:38:34.227184 #28629]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:34.227444 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T10:38:34.227886 #28629]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T10:38:34.228396 #28629]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T10:38:34.229041 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Spades
+I, [2014-04-05T10:38:34.230138 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.230770 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.233930 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.234431 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.237011 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.237257 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.244050 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.244622 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.245663 #28629]  INFO -- : R3T won 120
+I, [2014-04-05T10:38:34.251066 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.258333 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.262454 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.263242 #28629]  INFO -- : R3T received hole_card Queen of Clubs
+I, [2014-04-05T10:38:34.263684 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Clubs
+I, [2014-04-05T10:38:34.264233 #28629]  INFO -- : NoCo received hole_card 5 of Clubs
+I, [2014-04-05T10:38:34.264541 #28629]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.264767 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T10:38:34.265012 #28629]  INFO -- : NoCo received hole_card 2 of Hearts
+I, [2014-04-05T10:38:34.265772 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.266315 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.270940 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.271547 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.280190 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.280517 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.284195 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.285436 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.286156 #28629]  INFO -- : Mr Bazinga won 120
+I, [2014-04-05T10:38:34.289712 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.293645 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.296284 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.296719 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:34.296920 #28629]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T10:38:34.297065 #28629]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.297236 #28629]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T10:38:34.297663 #28629]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.298016 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:34.298532 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 960 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.298876 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.302445 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.302792 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.305626 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.306001 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.307682 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.307881 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.308545 #28629]  INFO -- : NoCo won 120
+I, [2014-04-05T10:38:34.313215 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.316103 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.318643 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.319104 #28629]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T10:38:34.319456 #28629]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:34.319941 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Clubs
+I, [2014-04-05T10:38:34.320560 #28629]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T10:38:34.321409 #28629]  INFO -- : R3T received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:34.322178 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Spades
+I, [2014-04-05T10:38:34.323621 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.324656 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.329664 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.330207 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.333113 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.333623 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.344355 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.344569 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.344937 #28629]  INFO -- : R3T won 120
+I, [2014-04-05T10:38:34.347238 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.349425 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.352633 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.353244 #28629]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.353434 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:34.353592 #28629]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T10:38:34.353771 #28629]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T10:38:34.353924 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.354098 #28629]  INFO -- : NoCo received hole_card 3 of Clubs
+I, [2014-04-05T10:38:34.354614 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.355147 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.358218 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.358523 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.364244 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.364526 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.368282 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.368690 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.369263 #28629]  INFO -- : Mr Bazinga won 120
+I, [2014-04-05T10:38:34.371889 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.373690 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.377396 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.377741 #28629]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T10:38:34.377930 #28629]  INFO -- : NoCo received hole_card 9 of Diamonds
+I, [2014-04-05T10:38:34.378119 #28629]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T10:38:34.378301 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Diamonds
+I, [2014-04-05T10:38:34.378548 #28629]  INFO -- : NoCo received hole_card 2 of Clubs
+I, [2014-04-05T10:38:34.378739 #28629]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.379053 #28629]  INFO -- : Mr Bazinga made a bet of 40 (raise) and is left with 960 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.379316 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.383970 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.384263 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.387361 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.387761 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.390618 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.390870 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.391315 #28629]  INFO -- : NoCo won 120
+I, [2014-04-05T10:38:34.394728 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.399206 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.401381 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.401981 #28629]  INFO -- : NoCo received hole_card 2 of Spades
+I, [2014-04-05T10:38:34.402289 #28629]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:34.402597 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Spades
+I, [2014-04-05T10:38:34.402984 #28629]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:34.403327 #28629]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T10:38:34.403644 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:34.404396 #28629]  INFO -- : NoCo made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.405134 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 920 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.411297 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.412145 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 960 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.417490 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.417941 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.424815 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.425609 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 920 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.426743 #28629]  INFO -- : R3T won 120
+I, [2014-04-05T10:38:34.432986 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.437316 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.441694 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.442629 #28629]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.443157 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:34.443701 #28629]  INFO -- : NoCo received hole_card 9 of Hearts
+I, [2014-04-05T10:38:34.444282 #28629]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T10:38:34.444951 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Clubs
+I, [2014-04-05T10:38:34.445557 #28629]  INFO -- : NoCo received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:34.446729 #28629]  INFO -- : R3T made a bet of 40 (raise) and is left with 1000 chips. The pot now contains 40 chips.
+I, [2014-04-05T10:38:34.447356 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.451808 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.452641 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.461049 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.461687 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 120 chips.
+E, [2014-04-05T10:38:34.468842 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.469738 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 880 chips. The pot now contains 120 chips.
+I, [2014-04-05T10:38:34.471058 #28629]  INFO -- : Mr Bazinga won 120
+I, [2014-04-05T10:38:34.478806 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.482362 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.487333 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.488296 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Hearts
+I, [2014-04-05T10:38:34.488858 #28629]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T10:38:34.489358 #28629]  INFO -- : R3T received hole_card 6 of Clubs
+I, [2014-04-05T10:38:34.489980 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T10:38:34.490563 #28629]  INFO -- : NoCo received hole_card 3 of Spades
+I, [2014-04-05T10:38:34.491085 #28629]  INFO -- : R3T received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.492010 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.492858 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.502917 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.503738 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.510800 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.511257 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.515043 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.515267 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.515655 #28629]  INFO -- : NoCo won 240
+I, [2014-04-05T10:38:34.519765 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.521283 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.522915 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.523270 #28629]  INFO -- : NoCo received hole_card 8 of Clubs
+I, [2014-04-05T10:38:34.523470 #28629]  INFO -- : R3T received hole_card 3 of Clubs
+I, [2014-04-05T10:38:34.523693 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:34.523898 #28629]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.524137 #28629]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T10:38:34.524408 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Diamonds
+I, [2014-04-05T10:38:34.524841 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.525185 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.528029 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.528790 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.532717 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.532949 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.539048 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.539395 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.539938 #28629]  INFO -- : R3T won 240
+I, [2014-04-05T10:38:34.542459 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.543970 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.546339 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.548394 #28629]  INFO -- : R3T received hole_card 6 of Spades
+I, [2014-04-05T10:38:34.548635 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Diamonds
+I, [2014-04-05T10:38:34.548826 #28629]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T10:38:34.549031 #28629]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:34.549224 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Hearts
+I, [2014-04-05T10:38:34.549404 #28629]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:34.549714 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.549969 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.552546 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.552999 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.559574 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.560299 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.566952 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.567540 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.568182 #28629]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T10:38:34.573046 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.577227 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.581075 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.581998 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T10:38:34.582560 #28629]  INFO -- : NoCo received hole_card Jack of Clubs
+I, [2014-04-05T10:38:34.583055 #28629]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T10:38:34.583706 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:34.584457 #28629]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T10:38:34.585035 #28629]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T10:38:34.585919 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.586863 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.597327 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.598001 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.603978 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.605176 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.610355 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.610965 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.612218 #28629]  INFO -- : NoCo won 240
+I, [2014-04-05T10:38:34.618343 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.625311 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.631166 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.631671 #28629]  INFO -- : NoCo received hole_card 9 of Clubs
+I, [2014-04-05T10:38:34.631940 #28629]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.632202 #28629]  INFO -- : Mr Bazinga received hole_card 9 of Diamonds
+I, [2014-04-05T10:38:34.632422 #28629]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:34.632639 #28629]  INFO -- : R3T received hole_card 6 of Clubs
+I, [2014-04-05T10:38:34.632843 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Spades
+I, [2014-04-05T10:38:34.633474 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.634332 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.642424 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.643225 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.647994 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.648565 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.657129 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.657343 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.658183 #28629]  INFO -- : R3T won 240
+I, [2014-04-05T10:38:34.661338 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.668752 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.670461 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.671406 #28629]  INFO -- : R3T received hole_card 5 of Clubs
+I, [2014-04-05T10:38:34.671976 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.672619 #28629]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T10:38:34.673218 #28629]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T10:38:34.673729 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Spades
+I, [2014-04-05T10:38:34.674317 #28629]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.675192 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.676111 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.679377 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.680125 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.692526 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.693000 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.698762 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.699117 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.699464 #28629]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T10:38:34.703394 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.705901 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.709626 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.710583 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Clubs
+I, [2014-04-05T10:38:34.711235 #28629]  INFO -- : NoCo received hole_card 4 of Clubs
+I, [2014-04-05T10:38:34.711900 #28629]  INFO -- : R3T received hole_card 3 of Spades
+I, [2014-04-05T10:38:34.712636 #28629]  INFO -- : Mr Bazinga received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:34.713227 #28629]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T10:38:34.713859 #28629]  INFO -- : R3T received hole_card 7 of Clubs
+I, [2014-04-05T10:38:34.714850 #28629]  INFO -- : Mr Bazinga made a bet of 80 (raise) and is left with 920 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.715771 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.722533 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.722999 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.729079 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.729860 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.734109 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.734301 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.734681 #28629]  INFO -- : NoCo won 240
+I, [2014-04-05T10:38:34.738904 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.743157 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.747485 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.748434 #28629]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T10:38:34.749107 #28629]  INFO -- : R3T received hole_card 5 of Clubs
+I, [2014-04-05T10:38:34.749701 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T10:38:34.750360 #28629]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:34.750956 #28629]  INFO -- : R3T received hole_card 4 of Spades
+I, [2014-04-05T10:38:34.751436 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Spades
+I, [2014-04-05T10:38:34.751855 #28629]  INFO -- : NoCo made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.752285 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 840 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.757505 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.758489 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 920 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.763367 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.764164 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.774250 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.775229 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 840 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.776557 #28629]  INFO -- : R3T won 240
+I, [2014-04-05T10:38:34.782887 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.786745 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.790603 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.791636 #28629]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T10:38:34.792309 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.792889 #28629]  INFO -- : NoCo received hole_card 9 of Hearts
+I, [2014-04-05T10:38:34.793496 #28629]  INFO -- : R3T received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.794066 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Clubs
+I, [2014-04-05T10:38:34.794620 #28629]  INFO -- : NoCo received hole_card Ace of Spades
+I, [2014-04-05T10:38:34.795516 #28629]  INFO -- : R3T made a bet of 80 (raise) and is left with 1000 chips. The pot now contains 80 chips.
+I, [2014-04-05T10:38:34.796423 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.801949 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.802626 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.813062 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.813598 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 240 chips.
+E, [2014-04-05T10:38:34.818938 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.819734 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 760 chips. The pot now contains 240 chips.
+I, [2014-04-05T10:38:34.821105 #28629]  INFO -- : Mr Bazinga won 240
+I, [2014-04-05T10:38:34.826648 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.828375 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.830002 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.830717 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T10:38:34.831367 #28629]  INFO -- : NoCo received hole_card 4 of Hearts
+I, [2014-04-05T10:38:34.832032 #28629]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T10:38:34.832748 #28629]  INFO -- : Mr Bazinga received hole_card 8 of Clubs
+I, [2014-04-05T10:38:34.833330 #28629]  INFO -- : NoCo received hole_card 5 of Hearts
+I, [2014-04-05T10:38:34.833924 #28629]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T10:38:34.834870 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 840 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:34.835680 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.842805 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.843237 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:34.846934 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.847590 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.851560 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.851794 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.852189 #28629]  INFO -- : NoCo won 480
+I, [2014-04-05T10:38:34.854124 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.856412 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.859839 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.860629 #28629]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T10:38:34.861104 #28629]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T10:38:34.861577 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.862111 #28629]  INFO -- : NoCo received hole_card 10 of Diamonds
+I, [2014-04-05T10:38:34.862562 #28629]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T10:38:34.863057 #28629]  INFO -- : Mr Bazinga received hole_card 9 of Diamonds
+I, [2014-04-05T10:38:34.863896 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:34.864608 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:34.870449 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.871128 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.875147 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.875554 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.883423 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.884189 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.885448 #28629]  INFO -- : R3T won 480
+I, [2014-04-05T10:38:34.891995 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.895294 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.899405 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.900469 #28629]  INFO -- : R3T received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:34.901043 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T10:38:34.901695 #28629]  INFO -- : NoCo received hole_card Jack of Hearts
+I, [2014-04-05T10:38:34.902291 #28629]  INFO -- : R3T received hole_card 2 of Hearts
+I, [2014-04-05T10:38:34.902916 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Hearts
+I, [2014-04-05T10:38:34.903472 #28629]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:34.904242 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:34.904578 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.908262 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.909075 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.918628 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.919441 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:34.931778 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.932783 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.933939 #28629]  INFO -- : Mr Bazinga won 480
+I, [2014-04-05T10:38:34.938679 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.943823 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.947975 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.948990 #28629]  INFO -- : Mr Bazinga received hole_card 9 of Clubs
+I, [2014-04-05T10:38:34.949544 #28629]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.950095 #28629]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T10:38:34.950678 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Clubs
+I, [2014-04-05T10:38:34.951220 #28629]  INFO -- : NoCo received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:34.951735 #28629]  INFO -- : R3T received hole_card Ace of Hearts
+I, [2014-04-05T10:38:34.952770 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 840 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:34.953611 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.963709 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:34.964534 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:34.971319 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:34.972063 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.976977 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:34.977632 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:34.978864 #28629]  INFO -- : NoCo won 480
+I, [2014-04-05T10:38:34.985315 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:34.990136 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:34.993368 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:34.994340 #28629]  INFO -- : NoCo received hole_card 3 of Hearts
+I, [2014-04-05T10:38:34.994819 #28629]  INFO -- : R3T received hole_card 7 of Hearts
+I, [2014-04-05T10:38:34.995103 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T10:38:34.995376 #28629]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T10:38:34.995677 #28629]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:34.995919 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Diamonds
+I, [2014-04-05T10:38:34.996341 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:34.996652 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:35.002882 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.003751 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.007412 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.007628 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.011159 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.011436 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.011830 #28629]  INFO -- : R3T won 480
+I, [2014-04-05T10:38:35.014859 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.019190 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.021374 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.021900 #28629]  INFO -- : R3T received hole_card 8 of Diamonds
+I, [2014-04-05T10:38:35.022229 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:35.022518 #28629]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T10:38:35.022842 #28629]  INFO -- : R3T received hole_card 4 of Clubs
+I, [2014-04-05T10:38:35.023159 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Spades
+I, [2014-04-05T10:38:35.023482 #28629]  INFO -- : NoCo received hole_card King of Clubs
+I, [2014-04-05T10:38:35.023903 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:35.024310 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.026590 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.026853 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.034647 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.035267 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:35.041631 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.042424 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.043686 #28629]  INFO -- : Mr Bazinga won 480
+I, [2014-04-05T10:38:35.049730 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.052948 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.057234 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.057707 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Spades
+I, [2014-04-05T10:38:35.057970 #28629]  INFO -- : NoCo received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:35.058279 #28629]  INFO -- : R3T received hole_card 9 of Spades
+I, [2014-04-05T10:38:35.058518 #28629]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T10:38:35.058715 #28629]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T10:38:35.058933 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:35.059285 #28629]  INFO -- : Mr Bazinga made a bet of 160 (raise) and is left with 840 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:35.059749 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.069677 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.069889 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:35.075612 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.076554 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.081200 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.081738 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.082855 #28629]  INFO -- : NoCo won 480
+I, [2014-04-05T10:38:35.089166 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.092662 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.096538 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.097461 #28629]  INFO -- : NoCo received hole_card 5 of Spades
+I, [2014-04-05T10:38:35.098009 #28629]  INFO -- : R3T received hole_card Queen of Clubs
+I, [2014-04-05T10:38:35.098633 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Diamonds
+I, [2014-04-05T10:38:35.099170 #28629]  INFO -- : NoCo received hole_card 4 of Spades
+I, [2014-04-05T10:38:35.099724 #28629]  INFO -- : R3T received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:35.100380 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Clubs
+I, [2014-04-05T10:38:35.101314 #28629]  INFO -- : NoCo made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:35.102300 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 680 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:35.107366 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.108325 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 840 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.112895 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.113362 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.120491 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.121021 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 680 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.122471 #28629]  INFO -- : R3T won 480
+I, [2014-04-05T10:38:35.126070 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.127968 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.129435 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.129735 #28629]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T10:38:35.129914 #28629]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T10:38:35.130108 #28629]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T10:38:35.130298 #28629]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T10:38:35.130470 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Spades
+I, [2014-04-05T10:38:35.130658 #28629]  INFO -- : NoCo received hole_card 8 of Hearts
+I, [2014-04-05T10:38:35.130950 #28629]  INFO -- : R3T made a bet of 160 (raise) and is left with 1000 chips. The pot now contains 160 chips.
+I, [2014-04-05T10:38:35.131192 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.132614 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.132820 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.140683 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.141568 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 480 chips.
+E, [2014-04-05T10:38:35.147523 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.148414 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 520 chips. The pot now contains 480 chips.
+I, [2014-04-05T10:38:35.149220 #28629]  INFO -- : Mr Bazinga won 480
+I, [2014-04-05T10:38:35.152698 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.156155 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.158724 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.159609 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Spades
+I, [2014-04-05T10:38:35.160207 #28629]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T10:38:35.160385 #28629]  INFO -- : R3T received hole_card King of Clubs
+I, [2014-04-05T10:38:35.160556 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Hearts
+I, [2014-04-05T10:38:35.160747 #28629]  INFO -- : NoCo received hole_card 10 of Hearts
+I, [2014-04-05T10:38:35.160907 #28629]  INFO -- : R3T received hole_card Queen of Hearts
+I, [2014-04-05T10:38:35.161181 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 680 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.161395 #28629]  INFO -- : NoCo made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.167639 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.168259 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.171855 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.172430 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.176805 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.177433 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.178556 #28629]  INFO -- : NoCo won 960
+I, [2014-04-05T10:38:35.182555 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.186733 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.190894 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.191807 #28629]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T10:38:35.192398 #28629]  INFO -- : R3T received hole_card Ace of Spades
+I, [2014-04-05T10:38:35.192991 #28629]  INFO -- : Mr Bazinga received hole_card King of Clubs
+I, [2014-04-05T10:38:35.193681 #28629]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T10:38:35.194214 #28629]  INFO -- : R3T received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:35.194889 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Clubs
+I, [2014-04-05T10:38:35.195805 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.196828 #28629]  INFO -- : R3T made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.203642 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.204745 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.209561 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.209844 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.217140 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.217842 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.219277 #28629]  INFO -- : R3T won 960
+I, [2014-04-05T10:38:35.225505 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.229901 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.235497 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.236543 #28629]  INFO -- : R3T received hole_card 2 of Spades
+I, [2014-04-05T10:38:35.237411 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Spades
+I, [2014-04-05T10:38:35.238425 #28629]  INFO -- : NoCo received hole_card Queen of Clubs
+I, [2014-04-05T10:38:35.239500 #28629]  INFO -- : R3T received hole_card 8 of Spades
+I, [2014-04-05T10:38:35.240544 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Hearts
+I, [2014-04-05T10:38:35.241646 #28629]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:35.242876 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.243306 #28629]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.246329 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.246566 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.250724 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.250932 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.252969 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.253203 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.253555 #28629]  INFO -- : Mr Bazinga won 960
+I, [2014-04-05T10:38:35.255393 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.257959 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.260241 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.260785 #28629]  INFO -- : Mr Bazinga received hole_card King of Diamonds
+I, [2014-04-05T10:38:35.261124 #28629]  INFO -- : NoCo received hole_card 9 of Spades
+I, [2014-04-05T10:38:35.261411 #28629]  INFO -- : R3T received hole_card 5 of Spades
+I, [2014-04-05T10:38:35.261727 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T10:38:35.262108 #28629]  INFO -- : NoCo received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:35.262405 #28629]  INFO -- : R3T received hole_card 4 of Spades
+I, [2014-04-05T10:38:35.262910 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 680 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.263674 #28629]  INFO -- : NoCo made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.270762 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.271155 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.279857 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.280401 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.285002 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.285657 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.286795 #28629]  INFO -- : NoCo won 960
+I, [2014-04-05T10:38:35.292664 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.295842 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.299655 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.300742 #28629]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T10:38:35.301366 #28629]  INFO -- : R3T received hole_card 2 of Clubs
+I, [2014-04-05T10:38:35.303780 #28629]  INFO -- : Mr Bazinga received hole_card King of Hearts
+I, [2014-04-05T10:38:35.304231 #28629]  INFO -- : NoCo received hole_card 10 of Spades
+I, [2014-04-05T10:38:35.304504 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:35.304816 #28629]  INFO -- : Mr Bazinga received hole_card 9 of Hearts
+I, [2014-04-05T10:38:35.305210 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.305658 #28629]  INFO -- : R3T made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.309654 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.309989 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.312498 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.312695 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.315625 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.316224 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.316593 #28629]  INFO -- : R3T won 960
+I, [2014-04-05T10:38:35.318409 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.319832 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.321535 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.321854 #28629]  INFO -- : R3T received hole_card 9 of Diamonds
+I, [2014-04-05T10:38:35.322042 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Clubs
+I, [2014-04-05T10:38:35.322207 #28629]  INFO -- : NoCo received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:35.322723 #28629]  INFO -- : R3T received hole_card 4 of Diamonds
+I, [2014-04-05T10:38:35.323263 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Hearts
+I, [2014-04-05T10:38:35.323465 #28629]  INFO -- : NoCo received hole_card 2 of Spades
+I, [2014-04-05T10:38:35.323732 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.323963 #28629]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.325587 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.325772 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.329092 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.329585 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.334023 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.334353 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.334887 #28629]  INFO -- : Mr Bazinga won 960
+I, [2014-04-05T10:38:35.338388 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.342012 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.345278 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.346270 #28629]  INFO -- : Mr Bazinga received hole_card 3 of Diamonds
+I, [2014-04-05T10:38:35.346823 #28629]  INFO -- : NoCo received hole_card 6 of Spades
+I, [2014-04-05T10:38:35.347400 #28629]  INFO -- : R3T received hole_card 10 of Spades
+I, [2014-04-05T10:38:35.347986 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Hearts
+I, [2014-04-05T10:38:35.348593 #28629]  INFO -- : NoCo received hole_card 9 of Hearts
+I, [2014-04-05T10:38:35.349137 #28629]  INFO -- : R3T received hole_card 5 of Hearts
+I, [2014-04-05T10:38:35.350045 #28629]  INFO -- : Mr Bazinga made a bet of 320 (raise) and is left with 680 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.350797 #28629]  INFO -- : NoCo made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.358805 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.359337 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.366143 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.366786 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.373535 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.374114 #28629]  INFO -- : NoCo made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.375306 #28629]  INFO -- : NoCo won 960
+I, [2014-04-05T10:38:35.378512 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.380498 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.381850 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.382125 #28629]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T10:38:35.382286 #28629]  INFO -- : R3T received hole_card Jack of Clubs
+I, [2014-04-05T10:38:35.382441 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T10:38:35.382646 #28629]  INFO -- : NoCo received hole_card 7 of Clubs
+I, [2014-04-05T10:38:35.382809 #28629]  INFO -- : R3T received hole_card 5 of Clubs
+I, [2014-04-05T10:38:35.382976 #28629]  INFO -- : Mr Bazinga received hole_card Queen of Spades
+I, [2014-04-05T10:38:35.383258 #28629]  INFO -- : NoCo made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.383701 #28629]  INFO -- : R3T made a bet of 640 (raise) and is left with 360 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.386386 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.386652 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 680 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.388347 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.388812 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.394249 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.394634 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 360 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.395278 #28629]  INFO -- : R3T won 960
+I, [2014-04-05T10:38:35.399148 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.403010 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.405599 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.406297 #28629]  INFO -- : R3T received hole_card Jack of Hearts
+I, [2014-04-05T10:38:35.406785 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Diamonds
+I, [2014-04-05T10:38:35.407242 #28629]  INFO -- : NoCo received hole_card Ace of Hearts
+I, [2014-04-05T10:38:35.407684 #28629]  INFO -- : R3T received hole_card Ace of Clubs
+I, [2014-04-05T10:38:35.408180 #28629]  INFO -- : Mr Bazinga received hole_card 6 of Spades
+I, [2014-04-05T10:38:35.408639 #28629]  INFO -- : NoCo received hole_card 10 of Clubs
+I, [2014-04-05T10:38:35.409437 #28629]  INFO -- : R3T made a bet of 320 (raise) and is left with 1000 chips. The pot now contains 320 chips.
+I, [2014-04-05T10:38:35.410056 #28629]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.413736 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.414374 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.423905 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.424352 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 960 chips.
+E, [2014-04-05T10:38:35.429372 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.430345 #28629]  INFO -- : Mr Bazinga made a bet of 0 (check) and is left with 40 chips. The pot now contains 960 chips.
+I, [2014-04-05T10:38:35.431566 #28629]  INFO -- : Mr Bazinga won 960
+I, [2014-04-05T10:38:35.437393 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.440796 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.443037 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.443343 #28629]  INFO -- : Mr Bazinga received hole_card Ace of Spades
+I, [2014-04-05T10:38:35.443531 #28629]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T10:38:35.443726 #28629]  INFO -- : R3T received hole_card 6 of Hearts
+I, [2014-04-05T10:38:35.444327 #28629]  INFO -- : Mr Bazinga received hole_card 7 of Clubs
+I, [2014-04-05T10:38:35.444506 #28629]  INFO -- : NoCo received hole_card Queen of Hearts
+I, [2014-04-05T10:38:35.444671 #28629]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:35.444956 #28629]  INFO -- : Mr Bazinga made a bet of 640 (raise) and is left with 360 chips. The pot now contains 640 chips.
+I, [2014-04-05T10:38:35.445195 #28629]  INFO -- : NoCo made a bet of 1000 (allin) and is left with 0 chips. The pot now contains 1640 chips.
+I, [2014-04-05T10:38:35.453939 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.454321 #28629]  INFO -- : R3T made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 1640 chips.
+E, [2014-04-05T10:38:35.459165 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.460034 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 360 chips. The pot now contains 1640 chips.
+I, [2014-04-05T10:38:35.460531 #28629]  INFO -- : NoCo won 1640
+I, [2014-04-05T10:38:35.463271 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.465612 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.467054 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.467377 #28629]  INFO -- : NoCo received hole_card 9 of Diamonds
+I, [2014-04-05T10:38:35.467549 #28629]  INFO -- : R3T received hole_card Queen of Spades
+I, [2014-04-05T10:38:35.467725 #28629]  INFO -- : Mr Bazinga received hole_card 5 of Clubs
+I, [2014-04-05T10:38:35.467874 #28629]  INFO -- : NoCo received hole_card Queen of Diamonds
+I, [2014-04-05T10:38:35.468027 #28629]  INFO -- : R3T received hole_card Jack of Spades
+I, [2014-04-05T10:38:35.468216 #28629]  INFO -- : Mr Bazinga received hole_card Jack of Hearts
+I, [2014-04-05T10:38:35.468500 #28629]  INFO -- : NoCo made a bet of 640 (raise) and is left with 1000 chips. The pot now contains 640 chips.
+I, [2014-04-05T10:38:35.468722 #28629]  INFO -- : R3T made a bet of 1000 (allin) and is left with 0 chips. The pot now contains 1640 chips.
+E, [2014-04-05T10:38:35.479436 #28629] ERROR -- : Player Mr Bazinga responded with TypeError: Cannot read property 'undefined' of undefined
+    at Object.module.exports.bet_request (/home/devill/git/poker-player-bazinga/player.js:8:62)
+    at port (/home/devill/git/poker-player-bazinga/player_service.js:14:26)
+    at callbacks (/usr/lib/node_modules/express/lib/router/index.js:164:37)
+    at param (/usr/lib/node_modules/express/lib/router/index.js:138:11)
+    at pass (/usr/lib/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/usr/lib/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/usr/lib/node_modules/express/lib/router/index.js:33:10)
+    at next (/usr/lib/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at IncomingMessage.<anonymous> (/usr/lib/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:70:11)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17) (500)
+I, [2014-04-05T10:38:35.480450 #28629]  INFO -- : Mr Bazinga made a bet of 0 (fold) and is left with 360 chips. The pot now contains 1640 chips.
+I, [2014-04-05T10:38:35.485437 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.485781 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 1640 chips.
+I, [2014-04-05T10:38:35.486357 #28629]  INFO -- : R3T won 1640
+I, [2014-04-05T10:38:35.492733 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.497211 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.501400 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.502337 #28629]  INFO -- : R3T received hole_card 9 of Hearts
+I, [2014-04-05T10:38:35.502962 #28629]  INFO -- : Mr Bazinga received hole_card 2 of Spades
+I, [2014-04-05T10:38:35.503505 #28629]  INFO -- : NoCo received hole_card Ace of Clubs
+I, [2014-04-05T10:38:35.504227 #28629]  INFO -- : R3T received hole_card 5 of Diamonds
+I, [2014-04-05T10:38:35.504835 #28629]  INFO -- : Mr Bazinga received hole_card 10 of Spades
+I, [2014-04-05T10:38:35.505423 #28629]  INFO -- : NoCo received hole_card 7 of Hearts
+I, [2014-04-05T10:38:35.506415 #28629]  INFO -- : R3T made a bet of 640 (raise) and is left with 1000 chips. The pot now contains 640 chips.
+I, [2014-04-05T10:38:35.507302 #28629]  INFO -- : Mr Bazinga made a bet of 360 (allin) and is left with 0 chips. The pot now contains 1000 chips.
+I, [2014-04-05T10:38:35.511565 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.511872 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 1000 chips. The pot now contains 1000 chips.
+I, [2014-04-05T10:38:35.521980 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.522242 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 1000 chips. The pot now contains 1000 chips.
+I, [2014-04-05T10:38:35.522489 #28629]  INFO -- : community card 2 of Clubs
+I, [2014-04-05T10:38:35.522732 #28629]  INFO -- : community card 4 of Clubs
+I, [2014-04-05T10:38:35.522930 #28629]  INFO -- : community card 5 of Hearts
+I, [2014-04-05T10:38:35.523139 #28629]  INFO -- : community card 8 of Clubs
+I, [2014-04-05T10:38:35.523496 #28629]  INFO -- : community card 6 of Hearts
+I, [2014-04-05T10:38:35.524339 #28629]  INFO -- : R3T showed 5 of Hearts,5 of Diamonds,6 of Hearts,8 of Clubs,9 of Hearts making a pair
+I, [2014-04-05T10:38:35.524747 #28629]  INFO -- : R3T won 1000
+I, [2014-04-05T10:38:35.526886 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.528442 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.529948 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.530234 #28629]  INFO -- : NoCo received hole_card King of Hearts
+I, [2014-04-05T10:38:35.530418 #28629]  INFO -- : R3T received hole_card 7 of Diamonds
+I, [2014-04-05T10:38:35.530604 #28629]  INFO -- : NoCo received hole_card 6 of Clubs
+I, [2014-04-05T10:38:35.530759 #28629]  INFO -- : R3T received hole_card Jack of Diamonds
+I, [2014-04-05T10:38:35.531018 #28629]  INFO -- : NoCo made a bet of 640 (raise) and is left with 360 chips. The pot now contains 640 chips.
+I, [2014-04-05T10:38:35.531252 #28629]  INFO -- : R3T made a bet of 1280 (raise) and is left with 720 chips. The pot now contains 1920 chips.
+I, [2014-04-05T10:38:35.534024 #28629]  INFO -- : Player NoCo responded with 0 (200)
+I, [2014-04-05T10:38:35.534345 #28629]  INFO -- : NoCo made a bet of 0 (fold) and is left with 360 chips. The pot now contains 1920 chips.
+I, [2014-04-05T10:38:35.539180 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.539555 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 720 chips. The pot now contains 1920 chips.
+I, [2014-04-05T10:38:35.540141 #28629]  INFO -- : R3T won 1920
+I, [2014-04-05T10:38:35.543048 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.545459 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.549107 #28629]  INFO -- : Player NoCo responded with  (200)
+I, [2014-04-05T10:38:35.549878 #28629]  INFO -- : R3T received hole_card 10 of Clubs
+I, [2014-04-05T10:38:35.550538 #28629]  INFO -- : NoCo received hole_card King of Spades
+I, [2014-04-05T10:38:35.551026 #28629]  INFO -- : R3T received hole_card 9 of Clubs
+I, [2014-04-05T10:38:35.551441 #28629]  INFO -- : NoCo received hole_card 9 of Spades
+I, [2014-04-05T10:38:35.552678 #28629]  INFO -- : R3T made a bet of 640 (raise) and is left with 2000 chips. The pot now contains 640 chips.
+I, [2014-04-05T10:38:35.553641 #28629]  INFO -- : NoCo made a bet of 360 (allin) and is left with 0 chips. The pot now contains 1000 chips.
+I, [2014-04-05T10:38:35.562685 #28629]  INFO -- : Player R3T responded with 0 (200)
+I, [2014-04-05T10:38:35.563350 #28629]  INFO -- : R3T made a bet of 0 (check) and is left with 2000 chips. The pot now contains 1000 chips.
+I, [2014-04-05T10:38:35.564170 #28629]  INFO -- : community card Queen of Diamonds
+I, [2014-04-05T10:38:35.564905 #28629]  INFO -- : community card 5 of Spades
+I, [2014-04-05T10:38:35.565600 #28629]  INFO -- : community card Queen of Hearts
+I, [2014-04-05T10:38:35.566326 #28629]  INFO -- : community card 8 of Hearts
+I, [2014-04-05T10:38:35.567080 #28629]  INFO -- : community card Jack of Diamonds
+I, [2014-04-05T10:38:35.568616 #28629]  INFO -- : R3T showed 8 of Hearts,9 of Clubs,10 of Clubs,Jack of Diamonds,Queen of Diamonds making a straight
+I, [2014-04-05T10:38:35.569891 #28629]  INFO -- : R3T won 1000
+I, [2014-04-05T10:38:35.574750 #28629]  INFO -- : Player R3T responded with  (200)
+I, [2014-04-05T10:38:35.578809 #28629]  INFO -- : Player Mr Bazinga responded with OK (200)
+I, [2014-04-05T10:38:35.581432 #28629]  INFO -- : Player NoCo responded with  (200)
