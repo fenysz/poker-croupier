@@ -2,6 +2,7 @@ require "sinatra"
 require "poker_ranking"
 require "json"
 
+set :bind, '0.0.0.0'
 set :port, 2048
 
 post "/" do
