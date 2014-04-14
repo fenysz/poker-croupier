@@ -47,6 +47,13 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box = BOX
   config.vm.box_url = "http://files.vagrantup.com/#{BOX}.box"
 
+
+  # Set virtual machine memory size
+  config.vm.provider :virtualbox do |vbox|
+    vbox.customize ["modifyvm", :id, "--memory", 2048]
+    vbox.customize ["modifyvm", :id, "--cpus", 4]
+  end
+
   config.vm.provision :shell, :inline => PROVISION_SCRIPT
 
   config.vm.synced_folder ".", "/home/vagrant/poker-croupier"
