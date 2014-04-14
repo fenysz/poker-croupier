@@ -10,6 +10,7 @@
         $(document).ready(function() {
             $('.leader-boards').hide();
             $('.leader-boards').first().show();
+            $('.container').show();
 
             $('.game-container').click(function(event){
                 $(event.target).find('.leader-boards').toggle();
@@ -24,13 +25,14 @@
     </script>
 </head>
 <body>
-<div class="container">
+<div class="container" style='display:none'>
     {{#games}}
         <div class="panel panel-body game-container">
             <div class="controls"><a href='/game?game_log={{{ game_path }}}'>Show</a></div>
             <b>Winner:</b> {{{game_first}}},
             <b>Second:</b> {{{game_second}}},
             <b>Current leader:</b> {{{tournament_leader}}}
+            <b>Time:</b> {{{time}}}
 
             <div class="leader-boards">
                 <div class="board">
@@ -38,7 +40,7 @@
                         <b>Game winners</b></div>
                     {{# game_places }}
                         <div class="panel">
-                            {{{place}}}. <a href='/log?player_log={{{log_file}}}'>{{{name}}}</a> <p class="version">{{{version}}}</p></div>
+                            {{{place}}}. <a href='/log?player_log={{{log_file}}}'>{{{name}}}</a> <p class="version">{{{version}}}<br/>{{{commit}}}</p></div>
                     {{/ game_places}}
                 </div>
                 <div class="board">

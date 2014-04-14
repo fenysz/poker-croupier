@@ -1,4 +1,5 @@
 require 'yaml'
+require 'open3'
 
 class Croupier::Tournament::Controller
   def initialize
@@ -46,7 +47,10 @@ class Croupier::Tournament::Controller
 
     @players.each do |player|
       tournament_round.data['ranking'][player[:name]]['log_file'] = player_log player
+      tournament_round.data['ranking'][player[:name]]['commit'] = player[:commit]
     end
+
+    tournament_round.data['time'] = Time.new.strftime "%H:%M"
 
     Croupier::Tournament::Persister.append_to(@tournament_logfile, tournament_round)
   end
@@ -65,6 +69,8 @@ class Croupier::Tournament::Controller
     @players.each do |player|
       Croupier::logger.info "Reseting #{player[:name]} to origin/master"
       `cd #{player[:directory]} && git fetch origin && git reset --hard origin/master && git clean -d -f`
+      player[:commit], _, _ = Open3.capture3("cd #{player[:directory]} && git rev-parse HEAD")
+      player[:commit].strip!
     end
   end
 
