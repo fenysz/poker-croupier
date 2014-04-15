@@ -1,0 +1,100 @@
+#!/bin/bash
+#
+# pokerservices     This shell script takes care of starting and stopping Pokerservices
+#
+# chkconfig: - 80 20
+#
+### BEGIN INIT INFO
+# Provides: pokerservices
+# Required-Start: $network $syslog
+# Required-Stop: $network $syslog
+# Default-Start:
+# Default-Stop:
+# Short-Description: start and stop pokerservices
+### END INIT INFO
+
+WDIR=/home/vagrant/poker-croupier
+LOG_DIR=/var/log/poker
+
+mkdir -p $LOG_DIR
+
+get_ranking_pid() {
+    echo `ps aux | grep ranking_service | grep -v grep |grep -v exec | awk '{ print $2 }'`
+}
+ 
+get_spectator_pid() {
+    echo `ps aux | grep visual_spectator | grep -v grep |grep -v exec | awk '{ print $2 }'`
+}
+ 
+start() {
+    ranking_pid=$(get_ranking_pid)
+    if [ -n "$ranking_pid" ]
+    then
+        echo "Ranking Service is already running (pid: $ranking_pid)"
+    else
+        # Start Ranking
+        echo "Starting Ranking Service"
+        /bin/su - -c "exec 2> $LOG_DIR/ranking_service.log && exec 1>&2 && cd $WDIR && bundle exec ruby ranking_service/ranking_service.rb &" root
+    fi    
+    spectator_pid=$(get_spectator_pid)
+    if [ -n "$spectator_pid" ]
+    then
+        echo "Visual Spectator is already running (pid: $spectator_pid)"
+    else
+        # Start Ranking
+        echo "Starting Visual Spectator"
+        /bin/su - -c "exec 2> $LOG_DIR/visual_spectator.log && exec 1>&2 && cd $WDIR && bundle exec ruby visual_spectator/visual_spectator.rb -p 4567 &" root
+    fi
+    return 0
+}
+ 
+stop() {
+    pid=$(get_ranking_pid)
+    if [ -n "$pid" ]
+    then
+        echo "Stoping Ranking Service"
+        kill -9 $pid
+    else
+        echo "Ranking Service is not running"
+    fi
+    pid=$(get_spectator_pid)
+    if [ -n "$pid" ]
+    then
+        echo "Stoping Visual Spectator"
+        kill -9 $pid
+    else
+        echo "Visual Spectator is not running"
+    fi
+    return 0
+}
+ 
+case $1 in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        stop
+        start
+        ;;
+    status)
+       pid=$(get_ranking_pid)
+        if [ -n "$pid" ]
+        then
+           echo "Ranking Service is running with pid: $pid"
+        else
+           echo "Ranking Service is not running"
+        fi
+	pid=$(get_spectator_pid)
+        if [ -n "$pid" ]
+        then
+           echo "Visual Spectator is running with pid: $pid"
+        else
+           echo "Visual Spectator is not running"
+        fi
+        ;;
+esac
+ 
+exit 0
