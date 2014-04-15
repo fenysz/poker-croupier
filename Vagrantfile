@@ -68,6 +68,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.provider :virtualbox do |vbox|
     vbox.customize ["modifyvm", :id, "--memory", 2048]
     vbox.customize ["modifyvm", :id, "--cpus", 4]
+    vbox.customize ["modifyvm", :id, "--name", "pokerserver" ]
   end
 
   config.vm.provision :shell, :inline => PROVISION_SCRIPT
