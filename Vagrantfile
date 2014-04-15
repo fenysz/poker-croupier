@@ -24,8 +24,24 @@ if [ "$LAST_UPDATE" -lt $(($CURRENT_TIME-24*60*60)) ]; then
     apt-get update
 fi
 
+install_package python-software-properties
+add-apt-repository ppa:ondrej/php5-oldstable
+add-apt-repository ppa:ubuntu-toolchain-r/test
+
+apt-get update
+sudo apt-cache policy php5
+
 install_package git
 install_package curl
+install_package libcurl3
+install_package libcurl3-dev
+install_package php5
+install_package php5-curl
+install_package gcc-4.7
+install_package g++-4.7
+install_package libperl-dev
+install_package python-dev
+
 
 if ! [ -f /usr/local/rvm/scripts/rvm ]; then
     curl -L https://get.rvm.io | bash -s stable --ruby=2.1.0

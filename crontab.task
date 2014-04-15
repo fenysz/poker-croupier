@@ -1,0 +1,1 @@
+#*/5 * * * * /bin/bash -l -c '/home/vagrant/runTournament.sh 1>>/var/log/poker/tournament.log 2>>/var/log/poker/tournament-error.log'
