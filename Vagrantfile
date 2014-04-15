@@ -67,7 +67,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # Set virtual machine memory size
   config.vm.provider :virtualbox do |vbox|
     vbox.customize ["modifyvm", :id, "--memory", 2048]
-    vbox.customize ["modifyvm", :id, "--cpus", 4]
+    vbox.customize ["modifyvm", :id, "--cpus", 8]
     vbox.customize ["modifyvm", :id, "--name", "pokerserver" ]
   end
 
